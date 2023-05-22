@@ -1,1 +1,2 @@
-# Bandza-OP
+# Rokas Bandza (Objektinis programavimas)
+
