@@ -11,6 +11,7 @@
 #include <cstdlib>
 #include <cctype>
 #include <vector>
+#include <numeric>
 
 using std::cout;
 using std::cin;
@@ -26,3 +27,4 @@ using std::vector;
 using std::numeric_limits;
 using std::sort;
 using std::toupper;
+using std::accumulate;
