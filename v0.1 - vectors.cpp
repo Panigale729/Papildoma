@@ -1,41 +1,41 @@
 #include "Mylib.h"
 
 
-//struktûra studento
+//struktÃ»ra studento
 struct studentas {
     string vardas = "";
     string pavarde = "";
-    vector<int> nd;       //namø darbø paşymiø vektorius
-    int egz = 0;          //egzamino paşymys
-    double galutinis = 0; //galutinis paşymys = 0.4 * vidurkis/mediana (nd) + 0.6 * egz
+    vector<int> nd;       //namÃ¸ darbÃ¸ paÃ¾ymiÃ¸ vektorius
+    int egz = 0;          //egzamino paÃ¾ymys
+    double galutinis = 0; //galutinis paÃ¾ymys = 0.4 * vidurkis/mediana (nd) + 0.6 * egz
 };
 
 
 //funkcijos deklaracijos
-char pradzia();                                   //pradinis tekstas + pasirinkimas, kaip skaièiuoti galutiná balà
+char pradzia();                                   //pradinis tekstas + pasirinkimas, kaip skaiÃ¨iuoti galutinÃ¡ balÃ 
 
 vector<studentas> studentu_pildymas(char x);     //pildome studentus
-void asmens_pildymas(studentas& asmuo, char x);   //uşpildome vieno studento duomenis
+void asmens_pildymas(studentas& asmuo, char x);   //uÃ¾pildome vieno studento duomenis
 
-int tikrinti_pazymi();                            //tikriname, ar ávestas paşymys yra nuo 0 iki 10
-string tikrinti_vard(int v);                      //tikriname, ar vardas/pavardë sudaryta/-as tik iğ raidşiø
-bool tikrinti_bool();                             //tikriname, ar ávedë bool reikğmæ
+int tikrinti_pazymi();                            //tikriname, ar Ã¡vestas paÃ¾ymys yra nuo 0 iki 10
+string tikrinti_vard(int v);                      //tikriname, ar vardas/pavardÃ« sudaryta/-as tik iÃ° raidÃ¾iÃ¸
+bool tikrinti_bool();                             //tikriname, ar Ã¡vedÃ« bool reikÃ°mÃ¦
 
 void spausdinti(char x, vector<studentas>& grupe); //spausdinimas
 void asmens_spausdinimas(studentas& asmuo);        //spausdiname vieno studento rezultatus
 
-string didziosios(string a);                      //Verèia vardo ir pavardës raides á didşiàsias
+string didziosios(string a);                      //VerÃ¨ia vardo ir pavardÃ«s raides Ã¡ didÃ¾iÃ sias
 
 
 
 int main()
 {
-    setlocale(LC_ALL, "Lithuanian"); //Ágaliname lietuviğkas raides
+    setlocale(LC_ALL, "Lithuanian"); //Ãgaliname lietuviÃ°kas raides
 
-    // PROGRAMOS PRADŞIA
+    // PROGRAMOS PRADÃIA
     char x = pradzia(); // x yra 'v' - vidurkiui arba 'm' - medianai
 
-    // STUDENTØ ÁVEDIMAS (ÁVEDAME STUDENTØ, KIEK TIK NORIME)
+    // STUDENTÃ˜ ÃVEDIMAS (ÃVEDAME STUDENTÃ˜, KIEK TIK NORIME)
     vector<studentas> grupe = studentu_pildymas(x);
 
     // SPAUSDINIMAS
@@ -45,23 +45,23 @@ int main()
 
 
 char pradzia() {
-    cout << "Paleidote programà, skirtà studento galutiniam balui apskaièiuoti." << endl;
-    cout << "Galutinis balas = 0.4 * namø darbø paşymiø vidurkis/mediana + 0.6 * egzamino paşymys." << endl << endl;
-    cout << "Pasirinkite, kà naudosite galutinio balo skaièiavimui: " << endl;
-    cout << "Vidurká - áveskite raidæ „v“. " << endl;
-    cout << "Medianà - áveskite raidæ „m“. " << endl;
-    cout << "Jûsø pasirinkimas: ";
+    cout << "Paleidote programÃ , skirtÃ  studento galutiniam balui apskaiÃ¨iuoti." << endl;
+    cout << "Galutinis balas = 0.4 * namÃ¸ darbÃ¸ paÃ¾ymiÃ¸ vidurkis/mediana + 0.6 * egzamino paÃ¾ymys." << endl << endl;
+    cout << "Pasirinkite, kÃ  naudosite galutinio balo skaiÃ¨iavimui: " << endl;
+    cout << "VidurkÃ¡ - Ã¡veskite raidÃ¦ â€vâ€œ. " << endl;
+    cout << "MedianÃ  - Ã¡veskite raidÃ¦ â€mâ€œ. " << endl;
+    cout << "JÃ»sÃ¸ pasirinkimas: ";
 
     string a;
     getline(cin, a);
-    //tikriname ávestá
+    //tikriname Ã¡vestÃ¡
     while (a != "v" && a != "m") {
-        cout << "Neteisinga ávestis. Bandykite dar kartà (áveskite: „v“ arba „m“). " << endl;
+        cout << "Neteisinga Ã¡vestis. Bandykite dar kartÃ  (Ã¡veskite: â€vâ€œ arba â€mâ€œ). " << endl;
         getline(cin, a);
     }
 
-    cout << "Pasirinkimas iğsaugotas." << endl << endl;
-    cout << "Pradëkite studentø ávedimà." << endl << endl;
+    cout << "Pasirinkimas iÃ°saugotas." << endl << endl;
+    cout << "PradÃ«kite studentÃ¸ Ã¡vedimÃ ." << endl << endl;
 
     char x = a[0];
 
@@ -75,13 +75,13 @@ vector<studentas> studentu_pildymas(char x) {
     bool testi = true;
     vector<studentas> grupe;
 
-    while (testi) { //tikrinam, ar vartotojas nori ávesti dar studentà + ávedimas
+    while (testi) { //tikrinam, ar vartotojas nori Ã¡vesti dar studentÃ  + Ã¡vedimas
 
-        grupe.push_back(studentas());   //pridedame naujà studentà á vektoriø.
-        asmens_pildymas(grupe.back(), x);   //pildome paskutinio pridëto studento duomenis
+        grupe.push_back(studentas());   //pridedame naujÃ  studentÃ  Ã¡ vektoriÃ¸.
+        asmens_pildymas(grupe.back(), x);   //pildome paskutinio pridÃ«to studento duomenis
 
-        //ar tæsti toliau ávedinëti studentus?
-        cout << "Jeigu norite tæsti studentø ávedimà - áveskite „1“" << endl << "Jeigu nenorite tæsti studento ávedimo - áveskite „0“" << endl << endl;
+        //ar tÃ¦sti toliau Ã¡vedinÃ«ti studentus?
+        cout << "Jeigu norite tÃ¦sti studentÃ¸ Ã¡vedimÃ  - Ã¡veskite â€1â€œ" << endl << "Jeigu nenorite tÃ¦sti studento Ã¡vedimo - Ã¡veskite â€0â€œ" << endl << endl;
         testi = tikrinti_bool();
     }
 
@@ -90,89 +90,91 @@ vector<studentas> studentu_pildymas(char x) {
 
 
 
-void asmens_pildymas(studentas& asmuo, char x) { //uşpildome vieno studento duomenis
+void asmens_pildymas(studentas& asmuo, char x) { //uÃ¾pildome vieno studento duomenis
 
-    //vardas, pavardë
+    //vardas, pavardÃ«
     asmuo.vardas = tikrinti_vard(1);
     asmuo.pavarde = tikrinti_vard(2);
 
-    //paşymiai
+    //paÃ¾ymiai
     int nd_suma = 0;
     int paz_sk = 0;
-    double nd_pask = 0; //paskaièiuota pagal vidurká arba medianà
+    double nd_pask = 0; //paskaiÃ¨iuota pagal vidurkÃ¡ arba medianÃ 
 
-    //Şiûrime, ar vartotojas nori, jog paşymiai (ir jø skaièius), egzamino balas bûtø sugeneruojami atsitiktinai
+    //ÃiÃ»rime, ar vartotojas nori, jog paÃ¾ymiai (ir jÃ¸ skaiÃ¨ius), egzamino balas bÃ»tÃ¸ sugeneruojami atsitiktinai
     bool generuoti;
 
-    cout << endl << "Jeigu norite tæsti, jog paşymiø skaièius, paşymiai ir egzamino balas bûtø generuojami atsitiktinai áveskite „1“" << endl;
-    cout << "Jeigu nenorite atsitiktinio generavimo áveskite „0“" << endl;
+    cout << endl << "Jeigu norite tÃ¦sti, jog paÃ¾ymiÃ¸ skaiÃ¨ius, paÃ¾ymiai ir egzamino balas bÃ»tÃ¸ generuojami atsitiktinai Ã¡veskite â€1â€œ" << endl;
+    cout << "Jeigu nenorite atsitiktinio generavimo Ã¡veskite â€0â€œ" << endl;
     generuoti = tikrinti_bool();
 
     if (generuoti) {
-        srand(time(NULL)); //nustatome seed`à atsitiktinio generatoriaus
+        srand(time(NULL)); //nustatome seed`Ã  atsitiktinio generatoriaus
 
-        int paz_sk = rand() % 8 + 3; //sugeneruojame atsitiktiná skaièiø paşymiø (nuo 3 iki 10)
-        asmuo.nd.resize(paz_sk); //resizinam`e vektoriø atitinkamai
+        int paz_sk = rand() % 8 + 3; //sugeneruojame atsitiktinÃ¡ skaiÃ¨iÃ¸ paÃ¾ymiÃ¸ (nuo 3 iki 10)
+        asmuo.nd.resize(paz_sk); //resizinam`e vektoriÃ¸ atitinkamai
 
-        for (int i = 0; i < paz_sk; i++) {  //uşpildome nd vektoriø paşymiais
+        for (int i = 0; i < paz_sk; i++) {  //uÃ¾pildome nd vektoriÃ¸ paÃ¾ymiais
             asmuo.nd[i] = rand() % 11; 
         }
+        
+        nd_suma = accumulate(asmuo.nd.begin(), asmuo.nd.end(), 0);
 
         asmuo.egz = rand() % 11; //generuojame nuo 0 iki 10
 
     }
     else {
 
-        //namø darbø paşymiai
-        cout << "Áveskite paşymius (nuo 0 iki 10):" << endl;
-        cout << "Norint baigti paşymiø ávedimà, áveskite bet koká simbolá/-ius (iğskyrus paşymius):" << endl;
+        //namÃ¸ darbÃ¸ paÃ¾ymiai
+        cout << "Ãveskite paÃ¾ymius (nuo 0 iki 10):" << endl;
+        cout << "Norint baigti paÃ¾ymiÃ¸ Ã¡vedimÃ , Ã¡veskite bet kokÃ¡ simbolÃ¡/-ius (iÃ°skyrus paÃ¾ymius):" << endl;
 
-        asmuo.nd.reserve(10); //uşrezervuojame vietos 10 paşymiø (kiek ir atsitiktinai generuojam). Iğvengsim nereikalingo atminties perskirstymo.
+        asmuo.nd.reserve(10); //uÃ¾rezervuojame vietos 10 paÃ¾ymiÃ¸ (kiek ir atsitiktinai generuojam). IÃ°vengsim nereikalingo atminties perskirstymo.
 
-        int p; //vienas paşymys
+        int p; //vienas paÃ¾ymys
 
         while (cin >> p && p >= 0 && p <= 10) {
-            //Reiğkia ávedë paşymá
+            //ReiÃ°kia Ã¡vedÃ« paÃ¾ymÃ¡
             asmuo.nd.push_back(p);
-            nd_suma += p; //paşymiø suma
+            nd_suma += p; //paÃ¾ymiÃ¸ suma
         }
 
-        asmuo.nd.shrink_to_fit(); //kad elementø skaièius vektoriuje sutaptø su jo dydşiu
+        asmuo.nd.shrink_to_fit(); //kad elementÃ¸ skaiÃ¨ius vektoriuje sutaptÃ¸ su jo dydÃ¾iu
 
-        cin.clear(); //iğtriname error flag`us
-        cin.ignore(INT_MAX, '\n'); //praignoruojame, kas liko iğ neteisingos ávesties
+        cin.clear(); //iÃ°triname error flag`us
+        cin.ignore(INT_MAX, '\n'); //praignoruojame, kas liko iÃ° neteisingos Ã¡vesties
 
 
-        //jeigu nebuvo ávesta paşymiø
+        //jeigu nebuvo Ã¡vesta paÃ¾ymiÃ¸
         if (asmuo.nd.empty()) {
-            cout << "Neuvo ávesta nei vieno paşymio ğiam studentui." << endl;
+            cout << "Neuvo Ã¡vesta nei vieno paÃ¾ymio Ã°iam studentui." << endl;
 
             if (x == 'v') {
-                cout << "Namø darbø vidurkis bus laikomas 0." << endl;
+                cout << "NamÃ¸ darbÃ¸ vidurkis bus laikomas 0." << endl;
             }
             else {
-                cout << "Namø darbø mediana bus laikoma 0." << endl;
+                cout << "NamÃ¸ darbÃ¸ mediana bus laikoma 0." << endl;
             }
 
             nd_pask = 0;
 
         };
 
-        cout << "Áveskite egzamino paşymá: " << endl;
+        cout << "Ãveskite egzamino paÃ¾ymÃ¡: " << endl;
         asmuo.egz = tikrinti_pazymi();
     }
 
-    //skaèiuojame galutiná balà
+    //skaÃ¨iuojame galutinÃ¡ balÃ 
 
-    //skaièiuojame nd galutiná pagal vidurká
-    if (!asmuo.nd.empty()) {    //jeinu paşymiø vektorius nëra tusèias
+    //skaiÃ¨iuojame nd galutinÃ¡ pagal vidurkÃ¡
+    if (!asmuo.nd.empty()) {    //jeinu paÃ¾ymiÃ¸ vektorius nÃ«ra tusÃ¨ias
 
-        //skaièiuojame pagal vidurká
+        //skaiÃ¨iuojame pagal vidurkÃ¡
         if (x == 'v') {
                 nd_pask = double(nd_suma) / asmuo.nd.size();
          }
 
-        //skaièiuojame nd galutiná pagal medianà
+        //skaiÃ¨iuojame nd galutinÃ¡ pagal medianÃ 
         else {
              sort(asmuo.nd.begin(), asmuo.nd.end());
 
@@ -183,9 +185,9 @@ void asmens_pildymas(studentas& asmuo, char x) { //uşpildome vieno studento duom
     
 
 
-    asmuo.galutinis = 0.4 * nd_pask + 0.6 * asmuo.egz; //paskaièiuojame galutiná balà
+    asmuo.galutinis = 0.4 * nd_pask + 0.6 * asmuo.egz; //paskaiÃ¨iuojame galutinÃ¡ balÃ 
 
-    cout << "Ğio studento duomenys sëkmingai árağyti" << endl << endl;
+    cout << "Ãio studento duomenys sÃ«kmingai Ã¡raÃ°yti" << endl << endl;
 }
 
 
@@ -193,37 +195,37 @@ void asmens_pildymas(studentas& asmuo, char x) { //uşpildome vieno studento duom
 string tikrinti_vard(int v) {
 
     if (v == 1) {
-        cout << "Áveskite studento vardà:" << endl;
+        cout << "Ãveskite studento vardÃ :" << endl;
     }
     else {
-        cout << endl << "Áveskite studento pavardæ: " << endl;
+        cout << endl << "Ãveskite studento pavardÃ¦: " << endl;
     }
 
     string vard;
     getline(cin, vard);
 
     for (char& c : vard) {
-        if (!isalpha(c)) { //Şiûrime, ar raidë
+        if (!isalpha(c)) { //ÃiÃ»rime, ar raidÃ«
             if (v == 1) {
-                cout << endl << "Neteisinga ávestis. Vardas turi bûti tik is raidşiø. Bandykite dar kartà." << endl;
+                cout << endl << "Neteisinga Ã¡vestis. Vardas turi bÃ»ti tik is raidÃ¾iÃ¸. Bandykite dar kartÃ ." << endl;
                 return tikrinti_vard(1);
             }
             else {
-                cout << endl << "Neteisinga ávestis. Pavardë turi bûti tik is raidşiø. Bandykite dar kartà." << endl;
+                cout << endl << "Neteisinga Ã¡vestis. PavardÃ« turi bÃ»ti tik is raidÃ¾iÃ¸. Bandykite dar kartÃ ." << endl;
                 return tikrinti_vard(2);
             }
 
         }
     }
 
-    return vard; //reiğkia viskas gerai ir galime naudoti toká varda/pavardæ
+    return vard; //reiÃ°kia viskas gerai ir galime naudoti tokÃ¡ varda/pavardÃ¦
 }
 
 bool tikrinti_bool() {
     string ivest;
     getline(cin, ivest);
     while (ivest != "0" && ivest != "1") {
-        cout << "Neteisinga ávestis. Bandykite dar kartà (áveskite: „0“ arba „1“)." << endl;
+        cout << "Neteisinga Ã¡vestis. Bandykite dar kartÃ  (Ã¡veskite: â€0â€œ arba â€1â€œ)." << endl;
         getline(cin, ivest);
     }
 
@@ -238,9 +240,9 @@ int tikrinti_pazymi() {
     cin >> a;
 
     while (a < 0 || a > 10 || cin.fail()) {
-        cin.clear(); //iğtriname error flag`us
-        cin.ignore(INT_MAX, '\n'); //praignoruojame, kas liko iğ neteisingos ávesties
-        cout << "Neteisinga ávestis (turi bûti nuo 0 iki 10). Bandykite dar kartà." << endl;
+        cin.clear(); //iÃ°triname error flag`us
+        cin.ignore(INT_MAX, '\n'); //praignoruojame, kas liko iÃ° neteisingos Ã¡vesties
+        cout << "Neteisinga Ã¡vestis (turi bÃ»ti nuo 0 iki 10). Bandykite dar kartÃ ." << endl;
         cin >> a;
     }
 
@@ -257,7 +259,7 @@ void spausdinti(char x, vector<studentas>& grupe) {
     //LENTELE
     cout << endl;
     cout << setw(10) << left << "VARDAS";
-    cout << setw(15) << left << "PAVARDË";
+    cout << setw(15) << left << "PAVARDÃ‹";
 
     if (x == 'v')
         cout << setw(25) << left << "GALUTINIS (vid.)" << endl;
@@ -272,7 +274,7 @@ void spausdinti(char x, vector<studentas>& grupe) {
 
 void  asmens_spausdinimas(studentas& asmuo) {
 
-    //paverèiame á didşiàsias raides
+    //paverÃ¨iame Ã¡ didÃ¾iÃ sias raides
     asmuo.vardas = didziosios(asmuo.vardas);
     asmuo.pavarde = didziosios(asmuo.pavarde);
 
