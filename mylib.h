@@ -1,0 +1,45 @@
+#pragma once
+#include <iostream>
+#include <iomanip>
+#include <cstdio>
+#include <stdlib.h>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <limits>
+#include <cctype>
+#include <vector>
+#include <random>
+#include <chrono>
+#include <numeric>
+#include <fstream>
+#include <sstream>
+#include <stdexcept> 
+
+using std::cout;
+using std::cin;
+using std::endl;
+using std::left;
+using std::right;
+using std::setw;
+using std::setprecision;
+using std::fixed;
+using std::string;
+using std::copy;
+using std::vector;
+using std::numeric_limits;
+using std::sort;
+using std::toupper;
+using std::mt19937;
+using std::random_device;
+using std::uniform_int_distribution;
+using std::accumulate;
+using std::ifstream;
+using std::ofstream;
+using std::istringstream;
+using std::stringstream;
+using std::max;
+
+using hrclock = std::chrono::high_resolution_clock;
+using duration = std::chrono::duration<double>;
+ 
