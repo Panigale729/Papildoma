@@ -1,7 +1,7 @@
 # v0.4 (pakeitimai nuo v0.3)
 
 **Sukurtas failų generatorius:**
-  - Vartotojui pasirinkus, jog jis nori skaityti iš failo - pridiėtas pasirinkimas pačiam tuos failus generuoti. Sukuriami 5 atsitiktiniai studentų tekstiniai failai: (1000, 10000, 100000, 1000000, 10000000 dydžių)
+  - Vartotojui pasirinkus, jog jis nori skaityti iš failo - pridėtas pasirinkimas tuos failus generuoti. Sukuriami 5 atsitiktiniai studentų tekstiniai failai: (1000, 10000, 100000, 1000000, 10000000 dydžių)
   - Taip pat tik paleidus programą, visi prieš tai sugeneruoti tekstiniai failai yra ištrinami
 
 
