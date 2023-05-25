@@ -30,4 +30,4 @@
 
 Laikas duotas sekundėmis. Buvo apvalinama, tai galima paklaida, gaunant visos programos veikimo laiką.
 
-Visos programos veikimo laikas su šiuo failu įskaičiuoja kreipamąsi į funkcijas, duomenų perdavimus ir t.t., todėl su mažesniais failais sudedant laiką, jis gali neatitikti.
+Visos programos veikimo laikas įskaičiuoja kreipamąsi į funkcijas, duomenų perdavimus ir t.t., todėl su mažesniais failais sudedant laiką, jis gali neatitikti.
