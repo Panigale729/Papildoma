@@ -29,4 +29,5 @@
 |Visos programos veikimo laikas su šiuo failo dydžiu       | 0.020 | 0.084 | 0.70 | 7.21 | 70.77 | 
 
 Laikas duotas sekundėmis. Buvo apvalinama, tai galima paklaida, gaunant visos programos veikimo laiką.
+
 Visos programos veikimo laikas su šiuo failu įskaičiuoja kreipamąsi į funkcijas, duomenų perdavimus ir t.t., todėl su mažesniais failais sudedant laiką, jis gali neatitikti.
