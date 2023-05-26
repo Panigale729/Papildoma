@@ -10,6 +10,7 @@ v0.5.1 - Vektorius.
 | Rūšiavimas |0.000|0.001|0.01|0.12|1.12|
 | Skirstymas |0.000|0.002|0.02|0.26|3.08|
 
+Laikas duotas sekundėmis. Laikas buvo apvalinamas (tūkstantųjų arba šimtųjų tikslumu).
 
 Testavimo sistemos parametrai:
 
