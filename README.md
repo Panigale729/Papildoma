@@ -6,9 +6,9 @@ v0.5.3 - abipusis dėkles (deque)
 
 |  | 1 000  | 10 000 | 100 000 | 1 000 000 | 10 000 000 |
 | --- | --- | --- | --- | --- | --- |
-| Nuskaitymas |0.004|0.031|0.32|3.12|31.28|
-| Rūšiavimas |0.000|0.001|0.02|0.52|9.11|
-| Skirstymas |0.000|0.002|0.03|0.26|2.85|
+| Nuskaitymas |0.004|0.032|0.32|3.14|34.01|
+| Rūšiavimas |0.000|0.002|0.02|0.31|4.06|
+| Skirstymas |0.000|0.002|0.02|0.29|3.45|
 
 Laikas duotas sekundėmis. Laikas buvo apvalinamas (tūkstantųjų arba šimtųjų tikslumu).
 
