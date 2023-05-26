@@ -18,9 +18,8 @@ Laikas duotas sekundėmis. Laikas buvo apvalinamas (tūkstantųjų arba šimtųj
 
 Testavimo sistemos parametrai:
 
-CPU: Intel Core i5-7200U (2 branduoliai, 2.5 GHz)
+CPU: AMD Ryzen 5 5625U with Radeon Graphics (6 branduoliai (12 loginių), 2.3 GHz)
 
-RAM: 8 GB (2133 MHz)
+RAM: 16 GB (3200 MHz)
 
-HDD: 128 GB TOSHIBA THNSNK128GCS8 SATA SSD
-
+SSD: 512 GB SAMSUNG MZVLQ512HBLU-00BH1
