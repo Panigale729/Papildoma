@@ -1,4 +1,4 @@
-# v0.5.1 - sąrašas (list)
+# v0.5.2 - sąrašas (list)
 
 Matuojama programos sparta panaudojant skirtingų tipų konteinerius.
 
