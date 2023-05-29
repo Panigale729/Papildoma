@@ -138,7 +138,11 @@ Skirstymo į 2 grupes rezultatai:
 
 Laikas duotas sekundėmis. Laikas buvo apvalinamas (tūkstantųjų arba šimtųjų tikslumu).
 
+Su vektoriumi ši strategija buvo nesėkminga, todėl ji buvo patobulinta, naudojant partition algoritmą:
 
-
-
+| Kont. tipas | Strategija | 1 000  | 10 000 | 100 000 | 1 000 000 | 10 000 000 |
+|--- | --- | --- | --- | --- | --- | --- |
+|Vector|1 str.|0.000|0.002|0.02|0.26|3.08|
+||2 str.|0.003|0.227|23.26|-|-|
+||3 str.|0.000|0.000|0.00|0.03|0.30|
 
