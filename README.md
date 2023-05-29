@@ -134,7 +134,7 @@ Skirstymo į 2 grupes rezultatai:
 |List|1 str.|0.000|0.002|0.03|0.26|2.85|
 ||2 str.|0.000|0.000|0.01|0.14|1.64|
 |Deque|1 str.|0.000|0.002|0.02|0.29|3.45|
-||2 str.|9.7e-05|0.001387|0.006499|0.062924|0.728491|
+||2 str.|0.000|0.000|0.01|0.06|0.54|
 
 Laikas duotas sekundėmis. Laikas buvo apvalinamas (tūkstantųjų arba šimtųjų tikslumu).
 
