@@ -115,8 +115,26 @@ SSD: 512 GB SAMSUNG MZVLQ512HBLU-00BH1
 
 # v1.0
 
+Optimizuota studentų rūšiavimo (dalijimo) į dvi kategorijas ("silpnučių" ir "gudručių") realizacija:
+t.y. visiems trims konteinerių tipams (vector, list ir deque) išmatuota programos veikimo sparta
+priklausomai nuo studentų dalijimo į dvi kategorijas strategijos:
 
+ - 1 strategija: Bendro studentai konteinerio (vector, list ir deque tipų)
+skaidymas (rūšiavimas) į du naujus to paties tipo konteinerius: "silpnučius" ir "gudručius".
 
+ - 2 strategija: Bendro studentų konteinerio (vector, list ir deque) skaidymas (rūšiavimas)
+panaudojant tik vieną naują konteinerį: "silpnučiai".
+
+Skirstymo į 2 grupes rezultatai:
+
+| Kont. tipas | Strategija | 1 000  | 10 000 | 100 000 | 1 000 000 | 10 000 000 |
+|--- | --- | --- | --- | --- | --- | --- |
+|Vector|1 str.|0.000|0.002|0.02|0.26|3.08|
+||2 str.|0.003|0.227|23.26|-|-|
+|List|1 str.|0.000343|0.00351|0.026915|0.261055|4.72714|
+||2 str.|0.000122|0.001569|0.01325|0.140333|2.08003|
+|Deque|1 str.|0.00019|0.001155|0.010588|0.092601|2.27641|
+||2 str.|9.7e-05|0.001387|0.006499|0.062924|0.728491|
 
 
 
