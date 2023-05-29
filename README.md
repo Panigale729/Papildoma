@@ -146,3 +146,32 @@ Su vektoriumi ši strategija buvo nesėkminga, todėl ji buvo patobulinta, naudo
 ||2 str.|0.003|0.227|23.26|-|-|
 ||3 str.|0.000|0.000|0.00|0.03|0.30|
 
+
+# Naudojimosi instrukcija
+
+Šiai programai naudojama:
+- C++ 17 versija
+- optimizavimo vėliavėlės -O3
+
+Paleidus programą:
+- Vartotojui leidžiama pasirinkti, kokia strategija bus taikoma dalijant sudentus į 2 grupes.
+- Vartotojas renkasi, ar nori skaityiti iš failo, ar pats įvesti studentų duomenis.
+- Pasirinkęs, jog nori skaityti iš failo:
+   - Renkasi, ar nori skaityti iš jau esamų (arba savo) failų, ar nori generuoti failus.
+- Pasirinkęs, jog nori generuoti failus:
+   - Renkasi, ar nori dirbti su prieš tai (iš anksto) sugeneruotais failais.
+
+Pasrinkus failus generuoti, sugeneruojami 5 .txt formato failai:
+1 000, 10 000, 100 000, 1 000 000, 10 000 000.
+
+Studentai rūšiuojami į dvi grupes (surūšiuotai išvedami į atskirus failus):
+  - Galutinis balas pagal vidurkį < 5 - „Silpnučiai“
+  - Galutinis balas pagal vidurkį >= 5 - „Gudručiai“
+
+Studentai išvedami į 2 naujus failus.
+
+Programa fiksuoja failų generavimo, nuskaitymo, studentų surūšiavimo ir skirstymo laikus.
+
+Gero naudojimo!
+
+
