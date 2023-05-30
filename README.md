@@ -152,7 +152,7 @@ Su vektoriumi ši strategija buvo nesėkminga, todėl ji buvo patobulinta, naudo
 Šiai programai naudojama:
 - C++ 17 versija
 - optimizavimo vėliavėlės -O3
-- jei naudojamas „Cmake“, tai minimali versija 3.26.4.
+- Cmake versija 3.26.4.
 
 Paleidus programą:
 - Vartotojui leidžiama pasirinkti, kokia strategija bus taikoma dalijant sudentus į 2 grupes.
