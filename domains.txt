@@ -1,0 +1,1682 @@
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Types
+Original top-level domains
+Infrastructure top-level domains
+Country code top-level domains
+Toggle Country code top-level domains subsection
+ICANN-era generic top-level domains
+Toggle ICANN-era generic top-level domains subsection
+Internationalized generic top-level domains
+Toggle Internationalized generic top-level domains subsection
+Geographic top-level domains
+Toggle Geographic top-level domains subsection
+Internationalized geographic top-level domains
+Brand top-level domains
+Internationalized brand top-level domains
+Special-Use Domains
+Non-IANA domains
+Toggle Non-IANA domains subsection
+See also
+Explanatory notes
+Toggle Explanatory notes subsection
+Citations
+External links
+List of Internet top-level domains
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may be too long to read and navigate comfortably. (September 2017)
+This article needs to be updated. (May 2021)
+This list of Internet top-level domains (TLD) contains top-level domains, which are those domains in the DNS root zone of the Domain Name System of the Internet. A list of the top-level domains by the Internet Assigned Numbers Authority (IANA) is maintained at the Root Zone Database.[1] IANA also oversees the approval process for new proposed top-level domains for ICANN. As of April 2021, their root domain contains 1502 top-level domains.[2][3] As of March 2021, the IANA root database includes 1589 TLDs. That also includes 68 that are not assigned (revoked), 8 that are retired and 11 test domains.[1] Those are not represented in IANA's listing[2] and are not in root.zone file (root.zone file also includes one root domain).[4]
+
+Types
+Main article: Top-level domain § Types
+IANA distinguishes the following groups of top-level domains:[5]
+
+infrastructure top-level domain (ARPA)
+generic top-level domains (gTLD)
+generic-restricted top-level domains (grTLD)
+sponsored top-level domains (sTLD)
+country code top-level domains (ccTLD)
+test top-level domains (tTLD)
+Original top-level domains
+Seven generic top-level domains were created early in the development of the Internet, and predate the creation of ICANN in 1998.
+
+Name: DNS names
+Entity: intended use
+Notes: general remarks
+IDN: support for internationalized domain names (IDN)
+DNSSEC: presence of DS records for Domain Name System Security Extensions
+Name	Entity	Administrator[6]	Notes	IDN	DNSSEC	SLD	IPv6
+.com	commercial	Verisign	This is an open TLD; any person or entity is permitted to register. Though originally intended for use by for-profit business entities, for a number of reasons it became the main TLD for domain names and is currently used by all types of entities including nonprofits, schools, and private individuals. Domain name registrations may be successfully challenged if the holder cannot prove an outside relation justifying reservation of the name,[7] to prevent "squatting". It was originally administered by the United States Department of Defense.	Yes	Yes	Yes	Yes
+.org	organization	Public Interest Registry	This is an open TLD; any person or entity is permitted to register. Originally intended for use by non-profit organizations, and still primarily used by some.	Yes	Yes	Yes	Yes
+.net	network	Verisign	This is an open TLD; any person or entity is permitted to register. Originally intended for use by domains pointing to a distributed network of computers, or "umbrella" sites that act as the portal to a set of smaller websites.	Yes	Yes	Yes	Yes
+.int	international	Internet Assigned Numbers Authority	The .int TLD is strictly limited to organizations, offices, and programs endorsed by a treaty between two or more nations. However, a few grandfathered domains do not meet these criteria.	No	Yes	Yes	Yes
+.edu	education	Educause (via Verisign)	The .edu TLD is limited to specific higher educational institutions such as, but not limited to, trade schools and universities. In the U.S., its use was restricted in 2001 to post-secondary institutions accredited by an agency on the list of nationally recognized accrediting agencies. This domain is therefore almost exclusively used by American colleges and universities. Some institutions, such as the Exploratorium, that do not meet the current registration criteria have grandfathered domain names.	No	Yes	Yes	Yes
+.gov	U.S. national and state government agencies	Cybersecurity and Infrastructure Security Agency (via Verisign)	The .gov TLD is limited to governmental entities and agencies as well as qualifying state, county and local municipal government agencies, and tribal governments.	No	Yes	Yes	Yes
+.mil	U.S. military	United States Department of Defense	The .mil TLD is limited to divisions, services and agencies of the United States Department of Defense.	No	Yes	Yes	Yes
+Infrastructure top-level domains
+Infrastructure	Entity	Notes	IDN	DNSSEC
+.arpa	"Address and Routing Parameter Area"	Originally assigned to the Advanced Research Projects Agency in the early days on the Internet, .arpa is now exclusively used as an Internet infrastructure TLD.	No	Yes
+Country code top-level domains
+Main article: Country code top level domain § Lists
+As of 20 May 2017, there were 255 country-code top-level domains, purely in the Latin alphabet, using two-character codes. As of June 2022, the number was 316, with the addition of internationalized domains.[1]
+
+Proposed internationalized ccTLDs
+Main article: Proposed top-level domain § Internationalized country code top-level domains
+Internationalised domain names have been proposed for Japan and Libya.
+
+ICANN-era generic top-level domains
+Name: DNS name
+Target market: intended use
+Restrictions: restrictions, if any, on who can register, and how the domain can be used
+Operator: entity the registry has been delegated to
+IDN: support for internationalized domain names (IDN)
+DNSSEC: presence of DS records for Domain Name System Security Extensions
+English
+A
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.academy	Schools, military academies, online learning websites, PTAs and student portals, any site created to be educational on a particular topic	—	Identity Digital[ID 1]	Yes	Yes
+.accountant	Certified Public Accountants, tax advisors, corporate accountants, personal and business accountants, professional CPA organizations	—	Global Registry Services Ltd[8]	Un­known	Yes
+.accountants	accountants and accounting firms	—	Identity Digital[ID 2]	Yes	Yes
+.active		Reserved for Active Network	The Active Network	Un­known	Yes
+.actor	Aspiring actors and their agents, theaters and movie studios, entertainment outlets, streaming video sites, movie review sites, celebrity gossip sites	—	Identity Digital[n 1]	Yes	Yes
+.ads	advertising	Reserved for Google AdSense	Charleston Road Registry Inc. (Google)[9]		
+.adult	adult entertainment (pornography)	For sites providing sexually explicit content, such as pornography.	ICM Registry	Yes	Yes
+.aero	air-transport industry	Must verify eligibility for registration; only those in various categories of air-travel-related entities may register.	SITA	No	No
+.africa	African and pan-African topics, African Union	—	ZA Central Registry	Un­known	Yes
+.agency	Marketing and advertising agencies, PR or communications agencies, design firms, talent agencies, travel agencies, other related agencies	—	Identity Digital[ID 3]	Yes[10]	Yes
+.airforce	Military recruiters, flight training schools, supply companies, military aircraft suppliers and repair companies, Air Force members and veterans	—	Identity Digital[n 1]	Yes	Yes
+.amazon		Reserved for Amazon	Amazon		
+.analytics		Reserved for SAS Institute	Campus IP LLC[9]		
+.apartments	Property (apartment) managers, condominium/apartment developers, college websites/centers, city guides and community centers	—	Identity Digital	Yes	Yes
+.app	Apps[11]	—	Google[n 2]	Un­known	Yes
+.apple	Apple[12]	Reserved for Apple[13]	Apple	Un­known	Yes
+.archi	architects and architect firms[14]	Restricted to individuals and organizations that can verify participation in architecture industry.[15]	STARTING DOT LIMITED	Un­known	Yes
+.army	Military recruiter, army supply stores, military training schools, army members and veterans	—	Identity Digital[n 1]	Yes	Yes
+.art	artists, museums, art galleries, dealers, service providers and contractors	—	UK Creative Ideas	Yes	Yes
+.arte		Reserved for Arte			Yes
+.associates	Accountants, law firms, consulting firms, real estate agencies, health & medical groups	—	Identity Digital[ID 4]	Yes	Yes
+.attorney	Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students	—	Identity Digital[n 1]	Yes	Yes
+.auction	Auction houses & online auctions, car and truck auction, B2B commodity auctions, charity auctions for non-profits and schools, buyer and seller communities	—	Identity Digital[n 1]	Yes	Yes
+.audible		Reserved for Audible	Amazon Registry Services, Inc.[9]		
+.audio	stereo/sound systems, music	—	Uniregistry	Yes[16]	Yes
+.author		—	Amazon Registry Services, Inc.[9]		
+.auto	vehicles		XYZ.com[9]		
+.autos	vehicles	—	XYZ.com	Un­known	Yes
+.aws		Reserved for Amazon Web Services	Amazon Registry Services, Inc.[9]		
+B
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.baby	For selling baby-related products		XYZ.com[9]	
+.band	Music venues, ticket sale/resale sites, music band & musician sites, school band sites, music review sites	—	Identity Digital[n 1]	Yes	Yes
+.bank	banks	Restricted to banks and savings associations	fTLD Registry Services, LLC	Un­known	Yes
+.bar	Bars and related industry	—	Punto 2012	Yes	Yes
+.barefoot		Reserved for Gallo Vineyards Inc.	Gallo Vineyards, Inc.[9]		
+.bargains	Online retailers, large and small, “sale” sections on retail websites, discount & overstock sites, bargain hunters, frugal-living bloggers	—	Identity Digital[ID 5]	Yes	Yes
+.baseball	baseball	Reserved for MLB	MLB Advanced Media DH, LLC[9]		
+.basketball	basketball	Reserved for FIBA	Fédération Internationale de Basketball (FIBA)[9]		
+.beauty	beauty	—	XYZ.com[9]		
+.beer	breweries and beer aficionados	—	Minds + Machines[n 3]	Un­known	Yes
+.best		—	BestTLD Pty Ltd	Un­known	Yes
+.bestbuy		Reserved for Best Buy	BBY Solutions, Inc.[9]		
+.bet	gambling	—	Identity Digital plc[9]		
+.bible		—	American Bible Society[9]		
+.bid	auctions	—	Global Registry Services Ltd[8]	Yes	Yes
+.bike	Bicycle & motorcycle enthusiasts, bike retailers & gear shops, bike repair shops, biking event organizers, bike or motorcycle clubs	—	Identity Digital[ID 6]	Yes[17]	Yes
+.bingo	Bingo halls, casinos, online & casual gaming sites, travel agencies	—	Identity Digital	Yes	Yes
+.bio	Organic agriculture[18]	Open TLD; any person or entity is permitted to register; however, registrants who are "producers, transformers and retailers, or otherwise involved in the field of agriculture, food and farming" must comply with the Principles of Organic Agriculture.[19][20]	Identity Digital[21]	Un­known	Yes
+.biz	business	Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not held by commercial entities in accordance with the domain's charter. This TLD was created to provide relief for the .com TLD, where many names have already been taken.	NeuStar	Yes[10]	Yes
+.black	those who like the color black[22]	—	Identity Digital	Yes	Yes
+.blackfriday	Black Friday, retail	—	Uniregistry	Yes[16]	Yes
+.blockbuster		Reserved for Blockbuster LLC	Dish DBS Corporation[9]		
+.blog	Blogs	—	Automattic[23]	Un­known	Yes
+.blue	those who like the color blue[24]	—	Identity Digital	Yes	Yes
+.boo	—	—	Google[n 2]	Un­known	Yes
+.book			Amazon Registry Services, Inc.[9]		
+.boots		Reserved for Boots Company Ltd	THE BOOTS COMPANY PLC[9]		
+.boston	websites related to the city of Boston, Massachusetts USA		Boston TLD Management, LLC[9]	Un­known	Yes
+.bot		Restricted to online "bots" using approved frameworks (Amazon Lex, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots) Amazon allows users to contact them if they have a bot outside of these frameworks.[25]	Amazon Registry Services, Inc.[9]		
+.boutique	Specialty online retailers, vintage shops, designers, artists and artisans, craftspeople	—	Identity Digital[ID 7]	Yes	Yes
+.box	individuals and businesses, in order to promote personal cloud storage	—	NS1 Limited	Yes	Yes
+.broadway	Broadway theatre	Reserved for members of the Broadway League	Celebrate Broadway, Inc.[9]		
+.broker			DOTBROKER REGISTRY LTD[9]		
+.build	construction industry		Plan Bee LLC	Yes	Yes
+.builders	Contractors, subcontractors, commercial/residential architects, interior designers	—	Identity Digital[ID 8]	Yes	Yes
+.business	Creative businesses & agencies, freelancers & independent consultants, any other business looking to differentiate from the competition	—	Identity Digital[ID 9]	Yes	Yes
+.buy	sales		Amazon Registry Services, INC[9]		
+.buzz	marketing and social networking	—	DOTSTRATEGY	Yes	Yes
+C
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.cab	Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions	—	Identity Digital[ID 10]	Yes	Yes
+.cafe	Cafes, restaurants, delis, cafeterias, coffee shops & coffee stands, student lounges, mobile food/beverage vendors, cooking schools	—	Identity Digital	Yes	Yes
+.call			Amazon Registry Services, Inc.[9]		
+.cam	Cameras, photography, broadcasting, film-making and livestreaming.	—	CAM Connecting SarL [26]	Yes	Yes
+.camera	Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online	—	Identity Digital[ID 11]	Yes	Yes
+.camp	Camping/RV sites, travel writers & bloggers, outdoor adventure companies, summer camps for kids, hotels, hostels, lodges, bed & breakfast lodging	—	Identity Digital[ID 12]	Yes	Yes
+.cancerresearch	Organizations, research institutes and individuals interested in ending cancer through research[27]	—	Australian Cancer Research Foundation	Un­known	Yes
+.capital	Mortgage companies, financial services professionals, investment services, venture capital investors	—	Identity Digital[ID 13]	Yes	Yes
+.car	vehicles		Cars Registry Limited[9]		
+.cards	Occasion shoppers (holiday, birthday, bereavement), occasion-related websites, gift buyers, corporate HR departments	—	Identity Digital[ID 14]	Yes	Yes
+.care	Surgeons, primary/secondary care physicians, insurance providers, hospitals & clinics, medical, dental, or vision specialists, service based products or services	—	Identity Digital[ID 15]	Yes	Yes
+.career	jobs and job-searching	—	dotCareer LLC	Yes	Yes
+.careers	Career services (coaching, resume writing), job sites & recruiters, business coaches, staffing firms, HR department of any business	—	Identity Digital[ID 16]	Yes	Yes
+.cars	Automotive	—	Uniregistry	Yes	Yes
+.case		Reserved for CNH Industrial	CNH Industrial N.V.[9]		
+.cash	Pawn shops and consignment shops, currency exchanges, other cash-based businesses, check cashing services	—	Identity Digital[ID 17]	Yes	Yes
+.casino	Casino & online gaming sites, travel agencies, local tourist sites, hotel booking sites	—	Identity Digital	Yes	Yes
+.catering	Caterers & personal chefs, specialty food vendors, wedding planners & event planners, event spaces, wholesale suppliers	—	Identity Digital[ID 18]	Yes	Yes
+.catholic	Catholicism		Dicastery for Communication[9]
+.center	Community centers, business centers, shopping centers, tourist sites/city centers, tutoring & learning centers	—	Identity Digital[ID 19]	Yes	Yes
+.cern	CERN	CERN	CERN	Un­known	Yes
+.ceo	CEOs	—[28]	CEOTLD Pty Ltd	Un­known	Yes
+.cfd	clothing fashion design		ShortDot SA[9]		
+.channel		—	Google[n 2]	Un­known	Yes
+.chat	Online chat rooms, dating, political, religious, sports, human interest, & hobbyist forums, companies with live chat help desks, chatbot technology companies	—	Identity Digital	Yes	Yes
+.charity		—	Identity Digital	Yes	Yes
+.cheap	Online retailers, discount sites, overstock sites, businesses who sell bulk products at discounted prices, bargain hunters & frugal-living bloggers	—	Identity Digital[ID 20]	Yes	Yes
+.christmas	Christmas	—	Uniregistry	Yes[16]	Yes
+.church	Churches, youth organizations, spiritual communities, religion-based organizations, anyone who publishes spiritual or religious content	—	Identity Digital[ID 21]	Yes	Yes
+.circle		—	Amazon Registry Services, Inc.[9]		
+.city	City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions, transportation businesses	—	Identity Digital[ID 22]	Yes	Yes
+.claims	Insurance adjusters & claims representatives, insurance claims departments (auto, medical, homeowners), customer service departments of insurance companies, law firms	—	Identity Digital[ID 23]	Yes	Yes
+.cleaning	Contractors, commercial/home cleaning services, auto detailing/cleaning services	—	Identity Digital[ID 24]	Yes	Yes
+.click		—	Uniregistry	Yes[16]	Yes
+.clinic	Healthcare clinics, medical or healthcare specialists, sports clinics, urgent care clinics	—	Identity Digital[ID 25]	Yes	Yes
+.clothing	Online retailers, department stores, designers	—	Identity Digital[ID 26]	Yes	Yes
+.cloud	Companies involved in cloud computing	—	Aruba S.p.A.		
+.club	groups, organizations, assemblies, communities, general	—[29]	.CLUB DOMAINS	Yes[30]	Yes
+.coach	Athletic organizations, personal trainers & coaches, business, life, & health coaches, school & community club coaches or tutors, affordable travel, airline, train, car, or other transportation companies	—	Identity Digital	Yes	Yes
+.codes	Software and web developers, IT companies, technology R&D companies, coding enthusiasts, coding classes & camps	—	Identity Digital[ID 27]	Yes	Yes
+.coffee	Coffee shops, roasters, wholesalers & suppliers, machine & equipment suppliers and stands	—	Identity Digital[ID 28]	Yes	Yes
+.college	Educational	—	XYZ.com	Yes	Yes
+.community	City guides & community centers, online communities, neighborhood associations, churches, mosques, temples, and other spiritual communities, local writers & bloggers	—	Identity Digital[ID 29]	Yes	Yes
+.company	Small, medium, or large businesses, business that want to demonstrate authority in their field, makers, artisans, anyone who sells a niche product	—	Identity Digital[ID 30]	Yes	Yes
+.compare		—	iSelect Ltd[9]		
+.computer	Computer manufacturers, computer repair services, computer resellers, computer training & education programs, tech companies	—	Identity Digital[ID 31]	Yes	Yes
+.condos	Real estate brokers/agents, property (condominium) managers, mortgage companies, condominium/apartment developers, condominium associations	—	Identity Digital[ID 32]	Yes	Yes
+.construction	Contractors, commercial/residential architects, wholesale and retail construction suppliers	—	Identity Digital[ID 33]	Yes	Yes
+.consulting	Consulting firms, independent consultants, specialty services, businesses that offer expert training	—	Identity Digital[n 1]	Yes	Yes
+.contact			Top Level Spectrum, Inc.[9]		
+.contractors	Construction-related businesses, contractors, subcontractors, independent contractors with unique skills and expertise, unions or other organizations promoting their people and skills	—	Identity Digital[ID 34]	Yes	Yes
+.cooking	sharing recipes	—	Minds + Machines[n 3]	Yes	Yes
+.cool	Fashion magazines & blogs, meme aggregators, trend tracking sites, online merchants, fun publications & sites	—	Identity Digital[ID 35]	Yes	Yes
+.coop	cooperatives	The .coop TLD is limited to cooperatives as defined by the Rochdale Principles.	DotCooperation	No	Yes
+.country	general	—	Minds + Machines[n 3]	Yes	Yes
+.coupon	discounts and rebates		Amazon Registry Services, Inc.[9]		
+.coupons	Coupon pages, coupon sites, discount sites, coupon-themed blogs, bargain hunters	—	Identity Digital	Yes	Yes
+.courses	education		Open Universities Australia Pty Ltd[9]		
+.cpa	accountants and accounting firms	Restricted to licensed CPAs and CPA firms	American Institute of Certified Public Accountants	Un­known	Yes
+.credit	Credit card companies, lenders, credit unions, collection agencies, credit counselors & financial planners	—	Identity Digital[ID 36]	Yes	Yes
+.creditcard	Credit card companies, store/retailer credit card sites, credit counselors & financial planners, credit card processing services	—	Identity Digital[ID 37]	Yes	Yes
+.cruise	Cruise lines, cruise-related products or services, travel agencies & vacation services, private charter boats		Viking River Cruises (Bermuda) Ltd.[9]		
+.cricket	cricket	—	Global Registry Services Ltd[8]	Un­known	Yes
+.cruises	cruise businesses and travel	—	Identity Digital[ID 38]	Yes	Yes
+.cyou	For any individual or business that shares the ethical values of diversity, inclusivity, and independence[31]	—	Shortdot SA[32]		Yes
+D
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.dad	fathers	—	Google[n 2]	Un­known	Yes
+.dance	Dance studios & instructors, nightclubs & music venues, dance teams & troupes, dance shoe, clothing & equipment manufacturers, fans of dance & live performances	—	Identity Digital[n 1]	Yes	Yes
+.data			Dish DBS Corporation[9]		
+.date	online dating	—	Global Registry Services Ltd[8]	Un­known	Yes
+.dating	Dating & matchmaker sites, travel sites & city guides, singles meetup groups, traditional “classified” sites, event businesses	—	Identity Digital[ID 39]	Yes	Yes
+.day	general	—	Google[n 2]	Un­known	Yes
+.deal	sales		Amazon Registry Services, Inc.[9]		
+.deals	Discount sites, bargain hunters, coupon sites, coupon pages. coupon-themed guides, directories and blogs	—	Identity Digital[ID 40]	Yes	Yes
+.degree	Brick-and-mortar schools & universities, online universities, other learning courses, other educational resources	—	Identity Digital[n 1]	Yes	Yes
+.delivery	Consumer delivery services, commercial shipping services, transportation services, messenger services, any business that ships their products	—	Identity Digital[ID 41]	Yes	Yes
+.democrat	Political candidates, lobbyists, political parties, fundraising organizations	—	Identity Digital[n 1]	Yes	Yes
+.dental	Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care	—	Identity Digital[ID 42]	Yes	Yes
+.dentist	Dentists, endodontists, orthodontists, retailers selling oral health supplies, wholesale suppliers for dental care	—	Identity Digital[n 1]	Yes	Yes
+.design	graphic art and fashion	—	Top Level Design	Yes	Yes
+.dev	software development	—	Google	Un­known	Yes
+.diamonds	Jewelers, diamond wholesalers and retailers, jewelry appraisers and buyers, pawn shops	—	Identity Digital[ID 43]	Yes	Yes
+.diet	dieting and dietary	—	Uniregistry	Yes[16]	Yes
+.digital	Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), online event, meetup & gaming sites, technology companies, e-commerce sites	—	Identity Digital[ID 44]	Yes	Yes
+.direct	Direct-to-consumer stores, bargain hunters, transportation services, messenger services, delivery & shipping services	—	Identity Digital[ID 45]	Yes	Yes
+.directory	Listings organizations, name, phone & address directories, online business directories, clubs, groups, & other organizations directories	—	Identity Digital[ID 46]	Yes	Yes
+.discount	Discount sites, bargain hunters, coupon sites, coupon pages, coupon-themed blogs	—	Identity Digital[ID 47]	Yes	Yes
+.diy	do-it-yourself		Lifestyle Domain Holdings, Inc.[9]		
+.docs	Technical Documentation		Charleston Road Registry Inc. (Google)[9]		
+.doctor	Doctors, any business with “doctor” in the name, other health care providers, PhD experts in any field		Identity Digital	Yes	Yes
+.dog	Dog breeders, dog walking, grooming & sitting businesses, veterinarians, animal shelters & adoption centers, pet stores & suppliers	—	Identity Digital	Yes	Yes
+.domains	Any web-based service, network consultants, domain brokers, resellers and registrars, home-related products and services	—	Identity Digital[ID 48]	Yes	Yes
+.dot			Dish DBS Corporation[9]		
+.download	technology	—	Global Registry Services Ltd[8]	Un­known	Yes
+.drive		Reserved for Google Drive	Charleston Road Registry Inc. (Google)[9]		
+E
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.earth	Individuals or businesses with a worldwide focus	—	Interlink Co., Ltd.[9]		
+.eat	restaurants and foodies	—	Google[n 2]	Un­known	Yes
+.eco	Sustainability minded companies, non-profits and professionals.[33]	Open to anyone pledging a commitment to sustainability action.[34]	Big Room Inc.[35]	No	Yes
+.education	Colleges & universities, public schools, PTAs & other school groups, education research organizations, any organization focused on educating its audience	—	Identity Digital[ID 49]	Yes	Yes
+.email	Advertising/Marketing/PR/Design agencies, email marketing experts, CRM and marketing technology specialists, anyone who wants a memorable email address	—	Identity Digital[ID 50]	Yes	Yes
+.energy	Electrical, mechanical, chemical, nuclear & thermal energy producers, solar, wind, hydro, bio & other sustainable alternative energy producers, battery manufacturers & oil industry R&D, energy conservation organizations, energy food & drink manufacturers	—	Identity Digital[ID 51]	Yes	Yes
+.engineer	Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers	—	Identity Digital[n 1]	Yes	Yes
+.engineering	Computer and software engineering companies, civil, electrical, mechanical, and architectural engineering companies, environmental, chemical, geotechnical, and bio engineering companies, engineer training or educational institutions, railroad engineers	—	Identity Digital[ID 52]	Yes	Yes
+.edeka	edeka firms	—	EDEKA Verband kaufmännischer Genossenschaften e.V.	Yes	Yes
+.entertainment	Ticket outlets, travel sites & local tourist sites, performance halls, theaters, & music venues, anyone in the entertainment industry, celebrity news sites	—	Identity Digital	Yes	Yes
+.enterprises	Entrepreneurs, startups, parent & holding companies, enterprise SaaS solutions & tech services	—	Identity Digital[ID 53]	Yes	Yes
+.equipment	Home improvement stores, construction equipment rentals, construction equipment sales, sporting goods stores	—	Identity Digital[ID 54]	Yes	Yes
+.esq	lawyers, law firms, legal professionals	To be restricted to verified lawyers and attorneys[36]	Google[n 2]	Un­known	Yes
+.estate	Estate sale management & appraisal services, estate planners & lawyers, real estate agents & brokers	—	Identity Digital[ID 55]	Yes	Yes
+.events	Event planners, sports & gaming agencies/sites, ticket sale/resale sites, city guides & community centers, performance halls, music clubs/bars	—	Identity Digital[ID 56]	Yes	Yes
+.exchange	Foreign currency exchanges, stock brokers, investment fund traders, ETF distributors, brokers, & dealers	—	Identity Digital[ID 57]	Yes	Yes
+.expert	Home services providers, online review sites, skilled worker databases, freelancers, consultants, & subject matter experts	—	Identity Digital[ID 58]	Yes	Yes
+.exposed	Tabloid sites, celebrity romance blog, TV spoiler sites, sites that host leaked documents, investigative journalism sites	—	Identity Digital[ID 59]	Yes	Yes
+.express	Transportation services, messenger services, delivery & shipping services, direct-to-consumer stores	—	Identity Digital	Yes	Yes
+F
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.fail	Online meme aggregators, humor websites, video sites	—	Identity Digital[ID 60]	Yes	Yes
+.faith	religion and churches	—	Global Registry Services Ltd[8]	Un­known	Yes
+.family	Family-focused travel sites, blogs about family-friendly activities & games, family history sites, photo sites, obstetricians & family practice doctors	—	Identity Digital	Yes	Yes
+.fan	Fan sites, current events & gossip sites, sport blogs and forums, personal & business sites about niche topics		Identity Digital	Yes	Yes
+.fans	general	—	ZDNS International Limited	Un­known	Yes
+.farm	Real estate brokers/agents, farming services & equipment dealers, farmers & ranchers, property managers, health food distributors, cryptocurrency farmers	—	Identity Digital[ID 61]	Yes	Yes
+.fashion	clothing industry	—	Minds + Machines[n 3]	Yes	Yes
+.fast		Reserved for Amazon	Amazon Registry Services, Inc.[9]		
+.feedback	feedback and reviews	—	Top Level Spectrum	Un­known	Yes
+.fiat		Reserved for Stellantis (previously Fiat Chrysler Automobiles and Fiat S.p.A.)	Stellantis N.V.	Un­known	Yes
+.film	films		Motion Picture Domain Registry Pty Ltd[9]		
+.final	final versions of anything		Núcleo de Informação e Coordenação do Ponto BR - NIC.br[9]		
+.finance	Investment services, banks & financial institutes, credit counselors & financial planners, accounting firms, lenders	—	Identity Digital[ID 62]	Yes	Yes
+.financial	Investment services, banks & financial institutions, credit counselors & financial planners, accounting firms, lenders	—	Identity Digital[ID 63]	Yes	Yes
+.fire		Reserved for Amazon (promotion of Fire devices)	Amazon Registry Services, Inc.[9]		
+.fish	Seafood markets, restaurants & suppliers, sport fishing & fly fishing enthusiasts, fishing gear, tackle, & product manufacturers, travel outfitters & fishing guide companies, aquariums, pet & fish supply stores, marine biology programs & conservation organizations	—	Identity Digital[ID 64]	Yes	Yes
+.fishing	fishing businesses, sports, and interests	—	Minds + Machines[n 3]	Yes	Yes
+.fit	Fitness and exercise	—	Minds + Machines[n 3]	Un­known	Yes
+.fitness	Gyms, athletic clubs & family health organizations, personal trainers, weight loss, health & wellness clinics, health & exercise blogs, fitness competition & events companies	—	Identity Digital[ID 65]	Yes	Yes
+.flights	Airline-related products or services, helicopter rides, skydiving, & hang gliding, travel agencies & travel services, private pilots, airport transportation	—	Identity Digital[ID 66]	Yes	Yes
+.florist	Florists, flower delivery services, floral designers, flower seed suppliers	—	Identity Digital[ID 67]	Yes	Yes
+.flowers	florists and gardens	—	Uniregistry	Yes	Yes
+.fly	travel	To be restricted to verified airlines, travel agencies and travel resellers[37]	Google[n 2]	Un­known	Yes
+.foo	web development	—[38]	Google[n 2]	Un­known	Yes
+.food			Lifestyle Domain Holdings, Inc.[9]		
+.foodnetwork		Reserved for Food Network	Lifestyle Domain Holdings, Inc.[9]		
+.football	Professional & amateur football & soccer teams, football clothing, gear & fan merchandise, football equipment manufacturers, football coaches & players	—	Identity Digital	Yes	Yes
+.forsale	Individual real estate brokers and brokerages, wholesalers and retailers across many product categories, discount, flash sale and deal websites, auction sites and individuals selling items they no longer need	—	Identity Digital[n 1]	Yes	Yes
+.forum	forums		Fegistry, LLC[9]		
+.foundation	Charitable organizations, public school foundations, other philanthropic organizations & foundations	—	Identity Digital[ID 68]	Yes	Yes
+.free	sales		Amazon Registry Services, Inc.[9]		
+.frontdoor		Reserved for HGTV	Lifestyle Domain Holdings, Inc.[9]		
+.fun		—	Radix Registry	Un­known	Un­known
+.fund	Investment services, banks & financial institutions, credit counselors & financial planners, lenders	—	Identity Digital[ID 69]	Yes	Yes
+.furniture	Home décor and furnishing stores, department stores, home designers, vintage stores, antique dealers	—	Identity Digital[ID 70]	Yes	Yes
+.fyi	"for your information"	—	Identity Digital	Yes	Yes
+G
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.gallery	Galleries, professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online	—	Identity Digital[ID 71]	Yes	Yes
+.game	gaming		Uniregistry, Corp.[9]		
+.games	Gaming sites, forums & reviews, online or brick & mortar game stores/clubs, sports events, clubs—professional & recreational, casinos		Identity Digital	Yes	Yes
+.garden	gardening	—	Minds + Machines[n 3]	Yes	Yes
+.gay	gay individuals or supportive organisations	—	Top Level Design[ID 72]	Yes	Yes
+[39]
+
+.gdn	general	—	GDN Registry	Un­known	Un­known
+.gift	gift-giving	—	Uniregistry	Yes[16]	Yes
+.gifts	Gift buyers, discount sites, corporate HR departments, bargain hunters	—	Identity Digital[ID 73]	Yes	Yes
+.gives	Philanthropic organizations and foundations, charities, nonprofits, corporate giving initiatives, volunteer organizations	—	Identity Digital[n 1]	Yes	Yes
+.glass	Glass & glass repair shops, glass departments within home supply stores, contractors, windshield repair & auto glass businesses, DIYers/artists	—	Identity Digital[ID 74]	Yes	Yes
+.gle	Google abbreviations	In use for some URL abbreviations related to Google such as forms.gle and goo.gle.	Charleston Road Registry Inc. (a Google subsidiary)[40]	Un­known	Yes
+.global	general, companies or individuals with a global focus or presence	—	Dot GLOBAL	Yes	Yes
+.gold	Jewelers, gold traders and dealers, coin sellers and traders, trophy and awards shops	—	Identity Digital	Yes	Yes
+.golf	Professional & amateur golf organizations, golf courses, equipment suppliers & manufacturers, golf travel & event companies, golf players, enthusiasts & spectators, sports networks	—	Identity Digital	Yes	Yes
+.google	Google	In use for some websites related to Google such as blog.google.	Alphabet Inc.	Un­known	Yes
+.gop	Republican Party politics	—	Republican State Leadership Committee	Spanish[41]	Yes
+.graphics	Web design firms, freelance designers, graphic artists	—	Identity Digital[ID 75]	Yes	Yes
+.green	the environmentally-focused	"As a Registrant you may not ... use a .green name or its content in a way that negatively affects the mission, purpose of the .green TLD, or its brand."[42]	Identity Digital	Un­known	Yes
+.gripe	Online complaint sites, online forums, customer service providers, feedback sites, blogs about scams	—	Identity Digital[ID 76]	Yes	Yes
+.grocery		Reserved for Walmart	Wal-Mart Stores, Inc.[9]		
+.group	Groups based on hobbies or interests (running, crafts, gaming), group-based businesses (medical practices, law firms, financial advisors), professional associations, support groups	—	Identity Digital	Yes	Yes
+.guide	City resource sites for locals and travelers, travel writers & bloggers, local reviews websites, tourist attractions & guides, outdoor adventure companies	—	Identity Digital[ID 77]	Yes	Yes
+.guitars	Guitars	—	Uniregistry	Yes[16]	Yes
+.guru	Mindfulness & yoga practices, spiritual leadership sites, any training program, work-for-hire sites, freelancers, consultants, & subject matter experts	—	Identity Digital[ID 78]	Yes[43]	Yes
+H
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.hair	haircare products and services		XYZ.com[9]		
+.hangout		Reserved for Google Hangouts	Charleston Road Registry Inc. (Google)[9]		
+.health	health and related topics		DotHealth, LLC[9]		
+.healthcare	Primary/secondary care physicians, hospitals & clinics, healthcare insurance providers & brokers, company HR/benefits departments	—	Identity Digital[ID 79]	Yes	Yes
+.help	help sites	—	Uniregistry	Yes[16]	Yes
+.here	generic geographic	—	Google[n 2]	Un­known	Yes
+.hiphop	Hip hop culture	—	Uniregistry	Yes[16]	Yes
+.hiv	AIDS and HIV awareness	—	dotHIV	Un­known	Yes
+.hockey	Sports media, sporting goods stores & hockey equipment suppliers, professional, minor league & amateur hockey teams, hockey fans, fantasy leagues, sponsors, coaches & referees	—	Identity Digital	Yes	Yes
+.holdings	Holding companies, private equity firms, real estate developers	—	Identity Digital[ID 80]	Yes	Yes
+.holiday	Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, city guides & resource sites, hotels, hostels, B&Bs, lodging	—	Identity Digital[ID 81]	Yes	Yes
+.homegoods		Reserved for HomeGoods	The TJX Companies, Inc.[9]		
+.homes	real estate professionals	—	Dominion Enterprises	Un­known	Yes
+.homesense		Reserved for HomeSense	The TJX Companies, Inc.[9]		
+.horse	horse-related businesses and interest	—	Minds + Machines[n 3]	Yes	Yes
+.hospital	Hospitals & clinics, healthcare providers, medical, dental, or vision specialists, insurance providers		Identity Digital	Yes	Yes
+.host	network companies	—	Radix Registry	Un­known	Yes
+.hosting		—	Uniregistry	Yes[16]	Yes
+.hot			Amazon Registry Services, Inc.[9]		
+.hotels		Reserved for Booking.com	Booking.com B.V.[9]		
+.house	Real estate brokers/agents, mortgage companies, home builders, construction/home improvement suppliers, home improvement sites & blogs	—	Identity Digital[ID 82]	Yes	Yes
+.how	how-to guides	—	Google[n 2]	Un­known	Yes
+I
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.ice		Reserved for Intercontinental Exchange	IntercontinentalExchange, Inc.[9]		
+.icu	entrepreneurs and business owners	—	ShortDot SA		
+.inc	Corporations		Intercap Registry Inc.		
+.industries	Machine or equipment manufacturers, manufacturers, tech or biotech companies, professional associations, businesses with “industries” in their names	—	Identity Digital[ID 83]	Yes	Yes
+.info	information	—	Identity Digital	German[10]	Yes
+.ing	Verbal suffix: e.g., "jump.ing".	—	Google[n 2]	Un­known	Yes
+.ink	creative printing or tattooing[44]	—	Top Level Design	Yes	Yes
+.institute[45]	Educational institutions, training programs, foundations, research organizations, military schools	—	Identity Digital[ID 84]	Yes	Yes
+.insurance	insurance companies		fTLD Registry Services LLC[9]		
+.insure	Insurance companies (life, auto, homeowners, renters), insurance divisions of larger companies (car rentals, warranties), insurance brokers & advisors	—	Identity Digital[ID 85]	Yes	Yes
+.international	Any organization with an international presence, international consultants, import/export businesses, international travel organizations	—	Identity Digital[ID 86]	Yes	Yes
+.investments	Investment services (institutional, private), wealth management services, financial planners, brokerage firms	—	Identity Digital[ID 87]	Yes	Yes
+.irish	Airline-related products or services, domestic/International travel agencies, resources & services, travel writers & bloggers, Ireland travel guides & resource sites, seasonal opportunities (St. Patrick's Day)	—	Identity Digital	Yes	Yes
+J
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.jewelry	Jewelers, jewelry buyers, online retailers, department stores	—	Identity Digital	Yes	Yes
+.jobs	Employment	For websites with job opportunities and job listings.[46]	Employ Media	No	Yes
+.joy		—	Amazon Registry Services, Inc.[9]		
+K
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.kim	Kim (Korean surname)	—	Identity Digital	Un­known	Yes
+.kitchen	Restaurants, cafes, & delis, food stands & mobile vendors, meal services & personal chefs, kitchen supply stores, food blogs & recipe sites	—	Identity Digital[ID 88]	Yes	Yes
+.kosher	Kosher food certification and regulations	—	OK Kosher Certification		
+.kpn	Dutch Telecom Company	Only available to KPN.			
+L
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.land	Real estate brokers and agents, residential/commercial land developers, home builders, mortgage companies, traditional “classified” sites	—	Identity Digital[ID 89]	Yes	Yes
+.lat	Latin American communities and users		ECOM-LAC[9]		
+.law	practitioners and educators in law	Restricted to qualified lawyers, courts of law, law schools, and legal regulators.[47]	Minds + Machines Group Limited[9]		
+.lawyer	Independent attorneys and law firms of any size, legal services entities, elected officials and judges, professional organizations, law students	—	Identity Digital[n 1]	Yes	Yes
+.lease	Real estate brokers/agents, property managers, condo/apartment developers, real estate law firms	—	Identity Digital[ID 90]	Yes	Yes
+.leclerc		Reserved for E.Leclerc	A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc		
+.legal	Attorneys, lawyers & law firms, corporate legal teams, paralegals, legal advocates, committees, associations and interest groups associated with the law	—	Identity Digital	Yes	Yes
+.lgbt	the lesbian, gay, bisexual and transgender community	"Registrants are prohibited from using the .LGBT domain in a manner that is harmful, threatening, abusive, harassing, defamatory, or hateful with respect to the LGBT community."[48]	Identity Digital	Un­known	Yes
+.life	Wellness and health experts, charities, coaches & personal development enthusiasts, lifestyle bloggers, anyone who wants to share personal stories	—	Identity Digital[ID 91]	Yes	Yes
+.lifeinsurance	life insurance		American Council of Life Insurers[9]		
+.lighting	Lighting & lighting repair shops, lighting departments within home supply stores, contractors, commercial/residential architects, DIYers	—	Identity Digital[ID 92]	Yes	Yes
+.like			Amazon Registry Services, Inc.[9]		
+.limited	Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products	—	Identity Digital[ID 93]	Yes	Yes
+.limo	Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, lodging, weddings, party and occasion-related services	—	Identity Digital[ID 94]	Yes	Yes
+.link	connecting to information[49]	—	Uniregistry	Yes[16]	Yes
+.live	Live streaming sites, entertainment/music venues, news sites/blogs, ticket sale/resale sites, video production companies	—	Identity Digital	Yes	Yes
+.living			Lifestyle Domain Holdings, Inc.[9]		
+.loan	banks and lenders	—	Global Registry Services Ltd[8]	Un­known	Yes
+.loans	Mortgage companies, personal loan agencies, auto loan agencies & car dealerships, credit consolidation services	—	Identity Digital[ID 95]	Yes	Yes
+.locker		Reserved for DISH DBS Corporation	Dish DBS Corporation[9]		
+.lol	LOL: laughing out loud (humorous or comedic content)	—	Uniregistry[50]	Un­known	Yes
+.lotto	lottery	—	Identity Digital	Un­known	Yes
+.love	dating sites	—		Un­known	Yes
+.ltd	Private companies, limited by shares, limited companies, businesses with “limited” or “LTD” in their names, specialty products and services, businesses that sell limited-quantity products	—	Identity Digital	Yes	Yes
+.luxury	businesses catering to the wealthy	—	Luxury Partners	Yes	Yes
+M
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.makeup			XYZ.com[9]		
+.management	Property managers, wealth management firms, money management, systems & network managers, leadership teams	—	Identity Digital[ID 96]	Yes	Yes
+.map	maps and navigation		Charleston Road Registry Inc. (Google)[9]	No	
+.market	Online retailers, independent or chain grocery stores, buyer and seller communities, discount sites & coupon sites	—	Identity Digital[n 1]	Yes	Yes
+.marketing	Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), staffing agencies, marketing consultants	—	Identity Digital[ID 97]	Yes	Yes
+.markets			Donuts[ID 98]	Un­known	Yes
+.mba	Colleges, universities, & graduate programs, online educational sites, job search sites, MBA candidates	—	Identity Digital	Yes	Yes
+.med	medicine and related topics		Medistry LLC[9]		
+.media	Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), news outlets, media bloggers, celebrity publications, digital publishers & graphic designers	—	Identity Digital[ID 99]	Yes	Yes
+.meet	social gatherings, meeting new people	—	Identity Digital	Un­known	Yes
+.meme	Internet memes	—	Google[n 2]	Un­known	Yes
+.memorial	News site obituaries, personal tribute sites, floral & funeral arrangement companies	—	Identity Digital	Yes	Yes
+.men	men	—	Global Registry Services Ltd[8]	Un­known	Yes
+.menu	restaurants	—	Wedding TLD2	Yes	Yes
+.mint		Reserved for Intuit Mint	Intuit Administrative Services, Inc.[9]		
+.mobi	mobile devices	Must be used for mobile-compatible sites in accordance with standards.	Identity Digital	Yes	Yes
+.mobile			Dish DBS Corporation[9]		
+.mobily		Reserved for Mobily	GreenTech Consultancy Company W.L.L.[9]		
+.moe	Japanese otaku culture; see moe (slang)	—	Interlink	Yes	Yes
+.mom	mothers		Uniregistry, Corp.[9]		
+.money	Lenders, financial services businesses, money blogs & news sites, investment bankers & brokers, financial planners & experts	—	Identity Digital	Yes	Yes
+.monster			XYZ.com	Yes	Yes
+.mortgage	Mortgage brokers, real estate brokers/agents, home buyers, traditional “classified” sites	—	Identity Digital[n 1]	Yes	Yes
+.motorcycles	motorcycles	—	DERMotorcycles	Un­known	Yes
+.mov	digital video	—	Google[n 2]	Un­known	Yes
+.movie	Streaming movie services, movie studios & distributors, movie theaters & entertainment outlets, ticket sale/resale sites, movie review sites	—	Identity Digital	Yes	Yes
+.museum	museums	Must be verified as a legitimate museum.	Museum Domain Management Association	Latin script[10]	Yes
+.music	Music dissemination and appreciation	—	Under contention		
+N
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.name	individuals, by name	Open TLD; any person or entity is permitted to register; however, registrations may be challenged later if they are not by individuals (or the owners of fictional characters) in accordance with the domain's charter.	Verisign	Yes[10]	Yes
+.navy	Naval training schools, navy supply stores, military recruiters, credit unions, navy members and veterans	—	Identity Digital[n 1]	Yes	Yes
+.network	IT professionals, tech consultants, career sites, industry-specific professional groups, social networks	—	Identity Digital[ID 100]	Yes	Yes
+.new	Websites where people can create something	The second-level domain name must be the thing to be created immediately when a user visits the .new website. Most likely, the .new will redirect to a company's main website.	Google[n 2]	Un­known	Yes
+.news	News organizations, educational publications, trade publications, neighborhood news blogs	—		Un­known	Yes
+.nexus			Google[n 2]	Un­known	Yes
+.ngo	Non-governmental organizations.
+Sold packaged with .ong.	Restricted to validated NGOs, as determined by PIR.[51]	Public Interest Registry	Un­known	Yes
+.ninja	Sites promoting specialized skills, repair services (auto, appliance, etc.), gaming sites, martial arts organizations	—	Identity Digital[n 1]	Yes	Yes
+.now			Amazon Registry Services, Inc.[9]		
+.ntt		Restricted to use by NTT Japan.[52]	Nippon Telegraph And Telephone Corporation.[9]	Yes	Yes
+O
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.observer			Donuts[ID 98]		
+.org	general	—	Public Interest Registry	
+.one	general	—	One Registry	Un­known	Yes
+.ong	Non-governmental organizations.
+Sold packaged with .ngo.	Restricted to validated NGOs, as determined by PIR.[51]	Public Interest Registry	Un­known	Yes
+.onl	generic	—	I-REGISTRY	Un­known	Yes
+.online	generic	—	Radix Registry	Un­known	Yes
+.ooo	general		Infibeam	Yes	Yes
+.open	private to the "Registry Operator and its qualified Affiliates and Trademark Licensees"[53]		American Express Travel Related Services Company, Inc.[9]		
+.organic	organic gardeners, farmers, foods, etc.	Registrants must be verified as a member of the organic community.[54]	Identity Digital	Un­known	Yes
+.origins		Reserved for Origins	The Estée Lauder Companies Inc.[9]		
+P
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.page			Charleston Road Registry Inc. (Google)[9]		
+.partners	Law firms, real estate agencies, investment firms, accounting firms, nonprofit organizations	—	Identity Digital[ID 101]	Yes	Yes
+.parts	Appliance wholesalers & service, tool rentals & service businesses, auto/boat/heavy equipment businesses	—	Identity Digital[ID 102]	Yes	Yes
+.party	nightclubs and social gatherings	—	Global Registry Services Ltd[8]	Un­known	Yes
+.pay	electronic payments		Amazon Registry Services, Inc.[9]		
+.pet	animals and pets		Identity Digital[9]		
+.pharmacy	pharmacies	"All registrants within the .pharmacy gTLD are vetted prior to registration to confirm that they meet all applicable regulatory standards, including pharmacy licensure and valid prescription requirements, in the jurisdictions where they are based and where they serve patients."[55]	National Association of Boards of Pharmacy	Un­known	Yes
+.phone	telephone-related businesses		Dish DBS Corporation[9]		
+.photo	photography and photo-sharing	—	Uniregistry	Yes[16]	Yes
+.photography	Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online	—	Identity Digital[ID 103]	Yes	Yes
+.photos	Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online	—	Identity Digital[ID 104]	Yes	Yes
+.physio	physical therapists	Must be eligible for membership within an association that is a member of the World Confederation for Physical Therapy, have proper training as a physical therapist outside WCPT's reach, or otherwise supports physical therapy.[56][57]	PhysBiz	Un­known	Yes
+.pics	photography and photo-sharing	—	Uniregistry	Yes[16]	Yes
+.pictures	Professional photographers, camera and equipment retailers, photo studios & photography schools, wedding and specialty photographers, anyone who wants to share photos online	—	Identity Digital[ID 105]	Yes	Yes
+.pid	personal identification	—	Top Level Spectrum	Un­known	Yes
+.pin			Amazon Registry Services, Inc.[9]		
+.pink	those who like the color pink	—	Identity Digital	Yes	Yes
+.pizza	Pizzerias, take & bake pizza shops, Italian or Greek restaurants, pizza brands found in grocery stores	—	Identity Digital[ID 106]	Yes	Yes
+.place	Airline-related products or services, travel agencies, resources & services, travel writers & bloggers, tourist attractions, hotels, hostels, B&Bs, lodging	—	Identity Digital[ID 107]	Yes	Yes
+.plumbing	Plumbers & plumbing repair businesses, plumbing departments within home supply stores, contractors/subcontractors, DIYers	—	Identity Digital[ID 108]	Yes	Yes
+.plus	Consumer commodity stores & sites, clothing (plus, big & tall), service-based businesses, any entity wanting to show their competitive advantage	—	Identity Digital	Yes	Yes
+.poker	Poker players and sites	—	Identity Digital[ID 109]	Un­known	Yes
+.porn	adult entertainment (pornography)	For sites providing sexually explicit content, such as pornography.	Identity Digital	Yes	Yes
+.post	postal services	The .post TLD is restricted to Postal Administrations as defined in the Universal Postal Union constitution, and their large customers who wish to provide "Trusted Postal Services".[58]	Universal Postal Union	No[59]	Yes
+.press	publishing and journalism	—	Radix Registry	Un­known	Yes
+.prime		Reserved for Amazon Prime	Amazon Registry Services, Inc.[9]		
+.pro	professions/professionals	—	Registry Services Corporation	No	Yes
+.productions	Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), video production services, anyone in the film industry	—	Identity Digital[ID 110]	Yes	Yes
+.prof	Professors, teachers and learning	—	Google[n 2]	Un­known	Yes
+.promo	advertising		Identity Digital[9]		
+.properties	Real estate brokers/agents, residential/Commercial land developers, property (condo/apartment) managers, home builders, mortgage companies	—	Identity Digital[ID 111]	Yes	Yes
+.property	real estate	—	Uniregistry	Yes[16]	Yes
+.protection	security		XYZ.COM LLC[9]		
+.pub	Pubs, bars & nightclubs, burger joints, breweries & taphouses, beer distributors, restaurant & bar suppliers
+publications
+
+—	Identity Digital[n 1]	Yes	Yes
+Q
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.qpon	coupons	—	dotCOOL	Un­known	Yes
+.quebec	People and businesses in Quebec	—	—	Un­known	Yes
+R
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.racing	racing	—	Global Registry Services Ltd[8]	Un­known	Yes
+.radio	radio stations, amateur radio operators		European Broadcasting Union (EBU)[9]		
+.read			Amazon Registry Services, Inc.[9]		
+.realestate	real estate		dotRealEstate LLC[9]		
+.realtor	realtors	To be restricted to members of the National Association of Realtors and the Canadian Real Estate Association, and related associations.[60]	Real Estate Domains	Un­known	Yes
+.realty	realty and housing		Fegistry, LLC[9]		
+.recipes	Recipe sites, food & beverage grocery brands, health & fitness organizations, cooking enthusiasts, personal/professional chefs	—	Identity Digital[ID 112]	Yes	Yes
+.red	those who like the color red[61]
+Also Spanish variant of .net
+Also likely to be attractive for domain hacks for words that end with '-red'.	—	Identity Digital	Yes	Yes
+.rehab	Physical and occupational therapists and professionals, drug, alcohol and gambling addiction counselors, rehabilitation facilities and recovery centers, online health directories, physical or emotional health associations	—	Identity Digital[n 1]	Yes	Yes
+.reit	real estate investment trusts	Restricted to REITs, as determined by national law.[62]	National Association of Real Estate Investment Trusts	Un­known	Yes
+.rent	Real estate professionals and small businesses	—	xyz.xyz	Un­known	Yes
+.rentals	Real estate brokers/agents, city guides, college housing centers, & community centers, vehicle, equipment, or entertainment/event rentals, property managers, condo/apartment developers	—	Identity Digital[ID 113]	Yes	Yes
+.repair	General or specialty repair shops, construction contractors/subcontractors, DIYers, appliance wholesalers & service, auto/boat businesses	—	Identity Digital[ID 114]	Yes	Yes
+.report	News and current events sites, financial reporting sites, financial or business analysts, consumer product reviews, police, school, or other community report listings	—	Identity Digital[ID 115]	Yes	Yes
+.republican	Political candidates, lobbyists, political parties, fundraising organizations	—	Identity Digital[n 1]	Yes	Yes
+.rest	Restaurants and related industry	—	Punto 2012	Yes[63]	Yes
+.restaurant	Casual eateries, gourmet restaurants, suppliers, chains, review sites, reservation sites & services	—	Identity Digital[ID 116]	Yes	Yes
+.review	public reviews	—	Global Registry Services Ltd[8]	Un­known	Yes
+.reviews	News media, food publications, travel publications, literary publications, any product & service with online reviews	—	Identity Digital[n 1]	Yes	Yes
+.rich	businesses catering to the wealthy	—	I-REGISTRY	Un­known	Yes
+.rip	Loved ones seeking to memorialize the deceased, funeral homes and cemeteries, businesses that support the funeral industry, obituary websites[64]	—	Identity Digital[n 1]	Yes	Yes
+.rocks	Pop culture sites, niche and fan sites, musicians, gemstone & jewelry companies	—	Identity Digital[n 1]	Yes	Yes
+.rodeo	Rodeo interest	—	Minds + Machines[n 3]	Yes	Yes
+.room	lodging or room design		Amazon Registry Services, Inc.[9]		
+.rugby	rugby		World Rugby Strategic Developments Limited[9]		
+.run	Runners, running shoe retailers, specialty running gear shops, running event organizers	—	Identity Digital	Yes	Yes
+S
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.safe	security and safety		Amazon Registry Services, Inc.[9]		
+.sale	Online and brick-and-mortar retailers and wholesalers, automotive and motorcycle dealers, discount, flash sale, and deal websites, auction sites and individuals selling items they no longer need	—	Identity Digital	Yes	Yes
+.salon	Hair salons, nail salons, beauty product companies, beauty schools	—	Identity Digital	Yes	Yes
+.save			Amazon Registry Services, Inc.[9]		
+.sbi			State Bank of India		
+.scholarships	scholarship related	—	Scholarships.com[65][66]	Un­known	Un­known
+.school	Public schools, private & charter schools, specialty and trade schools, online learning sites, resource sites for teachers	—	Identity Digital[ID 117]	Yes	Yes
+.science	science-related sites	—	Global Registry Services Ltd[8]	Un­known	Yes
+.search	search engines		Charleston Road Registry Inc. (Google)[9]		
+.secure	security		Amazon Registry Services, Inc.[9]		
+.security			XYZ.COM LLC[9]		
+.select			iSelect Ltd[9]		
+.services	Service division of any company, home services (cleaning, landscaping, plumbing, pet care), business services (tech support, interior design, translation services), community service organizations	—	Identity Digital[ID 118]	Yes	Yes
+.sex	adult entertainment (pornography)	For sites providing sexually explicit content, such as pornography.	ICM Registry	Yes	Yes
+.sexy	adult entertainment	—	Uniregistry	Yes[16]	Yes
+.shoes	Shoe stores, department stores, online retailers, athletic shoe retailers, discount shoe stores	—	Identity Digital[ID 119]	Yes	Yes
+.shop			GMO Registry, Inc.[9]		
+.shopping	Online retailers, shopping centers, personal shoppers, discount sites & coupon sites, shopping blogs & product reviews		Identity Digital	Yes	Yes
+.show	Ticket sale/resale sites, performance halls, music clubs/bars, streaming video services, movie review sites, travel sites & city guides	—	Identity Digital	Yes	Yes
+.showtime		Reserved for Showtime	CBS Domains Inc.[9]		
+.silk		Reserved for Amazon Silk	Amazon Registry Services, Inc.[9]		
+.singles	(Tickets) Ticket sale/resale sites, gaming agencies, movie review sites, city guides, sports sites
+(Dating) Dating & matchmaker sites, singles meetup groups, traditional “classified” sites, travel sites & city guides
+
+—	Identity Digital[ID 120]	Yes	Yes
+.site	general	—	Radix Registry	Un­known	Yes
+.ski	skiing		STARTING DOT LIMITED[9]		
+.skin			XYZ.com		
+.sky			Sky International AG[9]		
+.sling		Reserved for Sling Media	Hughes Satellite Systems Corporation[9]		
+.smile			Amazon Registry Services, Inc.[9]		
+.sncf		Reserved to the SNCF company.	SNCF		
+.soccer	Professional & amateur soccer clubs, soccer equipment suppliers & manufacturers, soccer & sports media networks, soccer players, enthusiasts, & spectators, soccer camps, coaches, & training organizations	—	Identity Digital	Yes	Yes
+.social	Advertising/Marketing/PR/Design agencies, media buying/production companies (digital & traditional), blogs & forums, event & meetup groups, any person or organization driving awareness of their social presence	—	Identity Digital[n 1]	Yes	Yes
+.software	Software testing, support, & consulting companies, software product developers & manufacturers, software training & educational institutions, software resellers	—	Identity Digital[n 1]	Yes	Yes
+.solar	Renewable & sustainable energy producers, solar panel, roof tile, & storage producers, solar cell battery, chargers, lights, speakers, & generator manufacturers, sunglass, shades, UV clothing, sunblock & other solar protection products	—	Identity Digital[ID 121]	Yes	Yes
+.solutions	SaaS providers, people who offer do-it-yourself tips and tutorials, consultants, any business focused on providing the right solutions to their customers’ problems.	—	Identity Digital[ID 122]	Yes	Yes
+.song			Amazon Registry Services, Inc.[9]		
+.spa	Spas	—	Asia Spa and Wellness Promotion Council Limited		
+.space	as a creative space	—	Radix Registry	Un­known	Yes
+.spreadbetting	Spread betting		DOTSPREADBETTING REGISTRY LTD[9]		
+.spot			Amazon Registry Services, Inc.[9]		
+.sport	sport institutions		Global Association of International Sports Federations (GAISF)		
+.srl	Spanish/Italian/Romanian/French limited liability companies		InterNetX GmbH		
+.storage	Self storage		Self Storage Company LLC[9]		
+.store	stores	—	Radix Registry	Yes	Yes
+.stream	streaming media		Global Registry Services Ltd[8]		
+.studio	Advertising/Marketing/PR/Design agencies, creative freelancers, other creative agencies (i.e., animation, production), dance, yoga, or fitness studios	—	Identity Digital[n 1]	Yes	Yes
+.study	education		OPEN UNIVERSITIES AUSTRALIA PTY LTD[9]		
+.style	Fashion bloggers, department stores, designers, online retailers	—	Identity Digital	Yes	Yes
+.sucks	gripe sites	—	Vox Populi	Un­known	Yes
+.supplies	Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, home services retailers	—	Identity Digital[ID 123]	Yes	Yes
+.supply	Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses	—	Identity Digital[ID 124]	Yes	Yes
+.support	IT/Tech support services, social services, customer service & support departments, independent consultants & consulting firms, staffing services	—	Identity Digital[ID 125]	Yes[67]	Yes
+.surf	surfing	—	Minds + Machines[n 3]	Un­known	Yes
+.surgery	Surgeons, primary/secondary care physicians, hospitals & clinics, healthcare providers, insurance providers	—	Identity Digital[ID 126]	Yes	Yes
+.systems	IT businesses, other tech-focused businesses, businesses that sell electronics or home security systems, organizational consultants	—	Identity Digital[ID 127]	Yes	Yes
+T
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.talk			Amazon Registry Services, Inc.[9]		
+.tattoo	tattoo aficionados	—	Uniregistry	Yes[16]	Yes
+.tax	Accounting & bookkeeping firms, tax advisors, auditors, financial experts & advisors	—	Identity Digital	Yes	Yes
+.taxi	Airline & travel-related products or services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging, tourist attractions	—	Identity Digital	Yes	Yes
+.team	Professional & amateur sports teams, sports equipment suppliers & manufacturers, sports media, athletes & fans, clubs, online communities & business organizations	—	Identity Digital	Yes	Yes
+.tech	technology	—	Radix Registry	Yes	Yes
+.technology	Tech-focused businesses & tech startups, businesses that sell to tech companies, developers, coders, programmers, computer retailers, technology blogs, news sites, & review sites, hardware & software companies, R&D companies, tech product manufacturers	—	Identity Digital	Yes	Yes
+.tel	internet communication services	A contact directory housing all types of contact information directly in the Domain Name System.		Yes[68]	Yes
+.tennis	Tennis courts, clubs & other venues, tennis equipment suppliers and retailers, professional & amateur tennis players, sports media	—	Identity Digital	Yes	Yes
+.theater	Entertainment & movie theater outlets, live performance theaters, professional performer associations, movie review sites, travel sites & city guides	—	Identity Digital	Yes	Yes
+.theatre	theatre		XYZ.COM LLC[9]		
+.tickets	ticket resale		XYZ.COM LLC[9]		
+.tips	Travel, hotel & hospitality companies, cooking & recipe publications, parenting & and relationship publications, manufacturers of any product with assembly instructions, publications that provide advice on gratuity practices around the world	—	Identity Digital	Yes	Yes
+.tires	Tire wholesalers, tire retailers, auto repair shops	—	Identity Digital	Yes	Yes
+.today	News & current event sites, websites that publish daily content, daily inspiration sites, sites with daily rotating deals or offers, anyone who wants to spur immediate action	—	Identity Digital	Yes	Yes
+.tools	Tool shops, tool departments within home supply stores, contractors, subcontractors, construction-related businesses	—	Identity Digital	Yes	Yes
+.top	general	—	Jiangsu Bangning	Un­known	Yes
+.tours	Airline-related products or services, travel agencies, resources & services, tourist attractions, outdoor adventure companies, private plane/helicopter tours & services	—	Identity Digital	Yes	Yes
+.town	Travel agencies, resources & services, local business associations, city guides & resource sites, transportation businesses, hotels, hostels, B&Bs, lodging	—	Identity Digital	Yes	Yes
+.toys	Toy stores, online retailers, department stores, game companies, sporting goods companies	—	Identity Digital	Yes	Yes
+.trade	businesses	—	Global Registry Services Ltd[8]	Yes	Yes
+.trading			DOTTRADING REGISTRY LTD[9]		
+.training	Personal trainers & nutrition coaches, gyms and fitness centers, sports medicine practitioners, business that sell sports gear or apparel, or fan merchandise, animal trainers, career or vocational training centers	—	Identity Digital	Yes	Yes
+.travel	Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging, any other travel or transportation business	Must be verified as a legitimate travel-related entity.		No	Yes
+.travelersinsurance		Reserved for Travelers Insurance	Travelers TLD, LLC[9]		
+.trust			UNR Corp.[9]		
+.tube			Latin American Telecom LLC[9]		
+.tunes			Amazon Registry Services, Inc.[9]		
+U
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.uconnect			Not assigned[9][69]		
+.university	Online universities, brick-and-mortar universities, university-related clubs & organizations	—	Identity Digital	Yes	Yes
+.uno	general, Spanish and Italian speakers, Uno (card game)				
+V
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.vacations	Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, destination resorts, hotels, hostels, B&Bs, lodging	—	Identity Digital	Yes	Yes
+.ventures	Venture capital investment firms, business financial services, business consultants, programs & services for entrepreneurs	—	Identity Digital	Yes	Yes
+.vet	Veterinarians, veterinary clinics and hospitals, wholesale suppliers for veterinary supplies	—	Identity Digital	Yes	Yes
+.video	Video production & media companies, videographers, video editors, script writers, & producers, streaming video sites services, creative agencies	—	Identity Digital	Yes	Yes
+.villas	International real estate brokers/agents, international travel agencies, resources & services, travel writers & bloggers, traditional “classified” sites	—	Identity Digital	Yes	Yes
+.vin	Wineries, wine shops & wine bars, wine distributors, wine clubs & online retailers, wine review sites and apps	—	Identity Digital	Yes	Yes
+.vip	Very important persons		Minds + Machines Group Limited[9]		
+.vision	Opticians & optometry clinics, healthcare providers, insurance provider, glasses retailers, online and brick & mortar	—	Identity Digital	Yes	Yes
+.vodka	vodka-related businesses and interest	—		Yes	Yes
+.volvo		Only Volvo Holding Sverige Aktiebolag and its Affiliates are eligible to register a Domain Name under the .volvo Domain [70]	AB Volvo	Un­known	Yes
+.vote	democratic elections and campaign websites	Must use the domain in connection with a "clearly identified political/democratic process."[71]	Identity Digital	Un­known	Yes
+.voting	polling sites	—		Latin and Cyrillic scripts[10]	Yes
+.voyage	Airline-related products or services, travel agencies, resources, bloggers & services, city guides & tourist attractions, transportation businesses, hotels, hostels, B&Bs, lodging	—	Identity Digital	Yes	Yes
+W
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.wang	general
+Wǎng is a Chinese Mandarin pinyin rendering of 网 (traditional 網) meaning "web" or "portal".[72]
+Wang is also a common surname in mainland China.	—	Zodiac Registry	Yes[73]	Yes
+.watch	Watchmakers, jewelry stores, watch repair shops, neighborhood watch groups	—	Identity Digital	Yes	Yes
+.watches	watches		Identity Digital[9]	Yes	Yes
+.weather		Reserved for The Weather Channel	International Business Machines Corporation[9]		
+.webcam	web cam shows and video sharing	—	Global Registry Services Ltd[8]	Yes	Yes
+.website	general	—	Radix Registry	Un­known	Yes
+.wed	engaged couples and wedding-oriented businesses	This TLD is intended primarily for engaged couples on a short-term basis (two years with large third-year renewal fees for second-level domains).[74]
+And although the registry is advertising for multiple world languages, all domains appear to need to be in Latin script.[75]		No	Yes
+.wedding	wedding-oriented businesses	—	Minds + Machines[n 3]	Yes	Yes
+.whoswho	Who's Who (general)	An open TLD, any person or entity is permitted to register. Conceived for those cited in one of the Who's Who reference titles published around the world, the registry was opened for use by private individuals, and for-profit and nonprofit entities, including those with social media aspirations. Registry policies allow for rapid takedown of non-compliant domains, for violations including imposturous registration of another's names, and proscribed uses, including pornography or adult services/applications.	Who's Who Registry	Yes	Yes
+.wiki	wikis	"An open TLD for anyone interested in community resource creation"	Top Level Design	Yes	Yes
+.win	games, Microsoft Windows	—	Global Registry Services Ltd[8]	Un­known	Yes
+.wine	Wineries, wine bars, wine shops, wine distributors, wine clubs & online retailers, wine review sites	—	Identity Digital	Yes	Yes
+.winners		Reserved for TJX Companies	The TJX Companies, Inc.[9]		
+.work	general	—	Minds + Machines[n 3]	Yes	Yes
+.works	Contractors, distribution companies, appliance wholesalers & service, auto/boat/heavy equipment businesses, companies with solution based products or services	—	Identity Digital	Yes	Yes
+.world	Brands with an international presence, nonprofits and charities, travel agencies & adventure companies, world travelers & global communities, any business with “world” in its name	—	Identity Digital	Yes	Yes
+.wow			Amazon Registry Services, Inc.[9]		
+.wtf	Bargain websites, photo & video aggregators, meme sites, news of the weird	—	Identity Digital	Yes	Yes
+X
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.xxx	adult entertainment (pornography)	For sites providing sexually explicit content, such as pornography.	Uniregistry	Yes	Yes
+.xyz	general	—	XYZ.com	Yes[76]	Yes
+Y
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.yachts	yachts		DERYachts, LLC	[9]	
+.yoga	yoga	—	Minds + Machines[n 3]	Yes	Yes
+.you			Amazon Registry Services, Inc.[9]		
+.youtube		Reserved for YouTube	Google, LLC		
+Z
+Name	Target market	Restrictions	Operator/Registry	IDN	DNSSEC
+.zero			Amazon Registry Services, Inc.[9]		
+.zip	digital storage information, providers, and related entities.		Charleston Road Registry Inc. (Google)[9]		
+.zone	Sports fans, technology groups & followers, entertainment, fairs, destinations with a “zone”, city planners & zoning regulators, any topic with a following	—	Identity Digital	Yes	Yes
+Chinese
+Name	Chinese term	Translation	Restrictions	Operator	IDN	DNSSEC
+French
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+German
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+Hindi
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+Italian
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+Portuguese
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+Spanish
+Name	Translation	Restrictions	Operator	IDN	DNSSEC
+Internationalized generic top-level domains
+All of these TLDs are internationalized domain names (IDN) and support second-level IDNs.
+
+Notes: general remarks and intended use
+DNSSEC: presence of DS records for Domain Name System Security Extensions
+Arabic script
+DNS Name	IDN	Language	Script	Transliteration	English Translation	Notes	DNSSEC
+Chinese characters
+DNS Name	IDN	Language	Script	Transliteration	English Translation	Notes	DNSSEC
+Cyrillic script
+DNS Name	IDN	Language	Script	Transliteration	English Translation	Notes	DNSSEC
+Japanese characters
+DNS Name	IDN	Language	Script	Transliteration	English Translation	Notes	DNSSEC
+Other script
+DNS Name	IDN	Language	Script	Transliteration	English Translation	Notes	DNSSEC
+Geographic top-level domains
+Name: DNS name
+Entity: Target geographic area
+Notes: general remarks
+IDN: support for internationalized domain names (IDN)
+DNSSEC: presence of DS records for Domain Name System Security Extensions
+Africa
+Name	Entity	Notes	IDN	DNSSEC
+.africa	Africa	[9][91]		Yes
+.capetown	Cape Town, South Africa	[92]	Un­known	Yes
+.durban	 Durban, South Africa	[93]	Un­known	Yes
+.joburg	 Johannesburg, South Africa	[94]	Un­known	Yes
+Asia
+Name	Entity	Notes	IDN	DNSSEC
+.abudhabi	 Abu Dhabi	[9]		
+.arab	 League of Arab States	[9]		
+.asia	Asia-Pacific region	This is a TLD for companies, organizations, and individuals based in the region of Asia, Australia, and the Pacific.	Chinese, Japanese, Korean[10]	Yes
+.doha	Doha	[9]		
+.dubai	Dubai	[9]		
+.krd	 Kurdistan	This is a TLD for companies, organizations, and individuals based in the region of Kurdistan[95][96]	Kurdish	Yes
+.kyoto	 Kyoto, Japan	[97]		
+.nagoya	 Nagoya, Japan	[98]	Japanese[10]	Yes
+.okinawa	 Okinawa, Japan	[99]	Japanese	Yes
+.osaka	 Osaka, Japan	[9]		
+.ryukyu	Ryukyu Islands, Japan	[100]	Un­known	Yes
+.taipei	Taipei, Taiwan	Introduced in September 2014[101]	Un­known	Yes
+.tokyo	 Tokyo, Japan	[102]	Yes	Yes
+.yokohama	 Yokohama, Japan	[103]	Japanese	Yes
+Europe
+Geographic TLDs in France 
+Name	Entity	Notes	IDN	DNSSEC
+.alsace	 Alsace	"The purpose of .ALSACE is to bring Alsatian culture and identity to the Internet, make our region more visible internationally and boost the digital economy in Alsace."[104]	Un­known	Yes
+.bzh	 Brittany; Breton language and culture	Breizh in Breton.[105] This is a TLD for Web sites in the Breton language or related to Breton culture	French[10]	Yes
+.corsica	 Corsica	TLD Related to Corsican Culture	Un­known	Yes
+.cat	 Catalonia; Catalan language and culture	This is a TLD for Web sites in the Catalan language or related to Catalan culture.[106]	Catalan[10]	Yes
+.eus	 Basque, Spain and France	Euskal Herria in Basque. Web sites must be in the Basque language and are checked periodically.[107]	Un­known	Yes
+.paris	 Paris	"Must be an individual or corporate entity with a bona fide presence in the Greater area of Paris"[108]	Yes	Yes
+Geographic TLDs in Spain 
+Name	Entity	Notes	IDN	DNSSEC
+.bcn	 Barcelona	[9]		
+.barcelona		Un­known	Yes
+.cat	 Catalonia; Catalan language and culture	This is a TLD for Web sites in the Catalan language or related to Catalan culture.[106]	Catalan[10]	Yes
+.eus	 Basque, Spain and France	Euskal Herria in Basque. Web sites must be in the Basque language and are checked periodically.[107]	Un­known	Yes
+.gal	 Galicia	This is a TLD for Web sites in the Galician language or related to Galician culture.[109]	Un­known	Yes
+.madrid	 Madrid	[110]	Un­known	Yes
+Geographic TLDs in Germany 
+Name	Entity	Notes	IDN	DNSSEC
+.bayern	 Bavaria	[111]	Yes	Yes
+.berlin	 Berlin	Must have a connection to Berlin, Germany for example a company based in Berlin or a person from Berlin etc.[112]	Latin and Cyrillic scripts[10]	Yes
+.cologne	 Cologne	[113]	Yes	Yes
+.koeln	[114]	Yes	Yes
+.hamburg	 Hamburg		Latin script[10]	Yes
+.nrw	 North Rhine-Westphalia	[115]	Yes	Yes
+.ruhr	Ruhr	[116]	German[10]	Yes
+.saarland	 Saarland	[117]	Un­known	Yes
+Other European Geographic TLDs 
+Name	Entity	Notes	IDN	DNSSEC
+.amsterdam	 Amsterdam, Netherlands	[118]	Un­known	Yes
+.bar	ZastavaBar Bar, Montenegro	[9] Mostly used for bars and other alcohol facilities worldwide	Un­known	Un­known
+.brussels	 Brussels, Belgium	[119]	Latin script[10]	Yes
+.cymru	 Wales, United Kingdom	[120]	Welsh[10]	Yes
+.wales	[120]	Welsh[10]	Yes
+.frl	 Friesland, Netherlands	Fryslân in (West) Frisian, one of the twelve provinces in the Netherlands.[121]	Un­known	Yes
+.gent	Ghent, Belgium	[122]	Un­known	Yes
+.helsinki	 Helsinki, Finland		Un­known	Un­known
+.irish	 Ireland; global Irish community		Un­known	Yes
+.ist	İstanbul, Turkey		Un­known	Un­known
+.istanbul		Un­known	Un­known
+.london	London, United Kingdom	[123]	Yes	Yes
+.moscow [ru]	 Moscow, Russia	[124]	Yes	Yes
+.scot	 Scotland, United Kingdom	[125]	Un­known	Yes
+.stockholm	 Stockholm, Sweden	[9]	Yes[126]	
+.swiss	 Switzerland	[9]	Yes[127]	Yes
+.tatar	Tatar peoples and places	Tatarstan is a region in Russia, though this TLD is meant for the global Tatar community.[128]	Un­known	Yes
+.tirol	 Tyrol, Austria	[129]	Yes[10]	Yes
+.vlaanderen	 Flanders, Belgium	[130]	Latin script[10]	Yes
+.wien	 Vienna, Austria	[131]	Latin script[10]	Yes
+.zuerich	 Zurich, Switzerland	[132]	Un­known	Yes
+North America
+Name	Entity	Notes	IDN	DNSSEC	Alternatives
+.boston	 Boston, Massachusetts	[9]			.boston.ma.us
+.miami	 Miami, Florida	[133]	Un­known	Yes	.miami.us
+.nyc	 New York City, New York	[134]	Spanish[10]	Yes	.new-york.ny.us
+.quebec	 Quebec, Canada	[135]	Un­known	Yes	.qc.ca
+.vegas	 Las Vegas, Nevada	[136]	Yes	Yes	.las-vegas.nv.us
+Oceania
+Name	Entity	Notes	IDN	DNSSEC
+.kiwi	New Zealand New Zealanders	[137]	Latin script[10]	Yes
+.melbourne	 Melbourne, Australia	[138]	Un­known	Yes
+.sydney	 Sydney, Australia	[139]	Un­known	Yes
+South America
+Name	Entity	Notes	IDN	DNSSEC
+.lat	 Latin America	[140]	Spanish[141]	Yes
+.rio	 Rio de Janeiro, Brazil	[142]	Un­known	Yes
+Internationalized geographic top-level domains
+DNS name	Display name	Entity	Language	Script	Transliteration	Notes	Other TLD	IDN	DNSSEC
+Brand top-level domains
+Name: DNS name
+Entity: company and/or brand
+Notes: general remarks
+IDN: support for internationalized domain names (IDN)
+DNSSEC: presence of DS records for Domain Name System Security Extensions
+Name	Entity	Notes	IDN	DNSSEC
+.aaa	American Automobile Association	[9]		
+.aarp	AARP	[9]		
+.abarth	Fiat Chrysler Automobiles (Abarth)	[9]		
+.abb	ABB	[9]		
+.abbott	Abbott Laboratories	[9]		
+.abbvie	AbbVie	[9]		
+.abc	American Broadcasting Company[145]	[9]		
+.accenture	Accenture	[9]		
+.aco	ACO Severin Ahlmann GmbH & Co. KG	[9]		
+.aeg	Aktiebolaget Electrolux	[9]		
+.aetna	Aetna	[9]		
+.afl	Australian Football League	[9]		
+.agakhan	Aga Khan Foundation	[9]		
+.aig	American International Group	[9]		
+.aigo	Aigo	[9]		
+.airbus	Airbus	[9]		
+.airtel	Bharti Airtel	[9]		
+.akdn	Aga Khan Foundation	[9]		
+.alfaromeo	Fiat Chrysler Automobiles (Alfa Romeo)	[9]		
+.alibaba	Alibaba Group	[9]		
+.alipay	Alibaba Group	[9]		
+.allfinanz	Allfinanz Deutsche Vermögensberatung Aktiengesellschaft	[146]	Un­known	Yes
+.allstate	Allstate	[9]		
+.ally	Ally Financial	[9]		
+.alstom	Alstom	[9]		
+.amazon	Amazon			
+.americanexpress	American Express	[9]		
+.amex	American Express	[9]		
+.amica	Amica Mutual Insurance	[9]		
+.android	Google (Android)	[147]	Un­known	Yes
+.anz	Australia & New Zealand Banking Group	[9]		
+.aol	AOL	[9]		
+.apple	Apple	[9]		
+.aquarelle	Aquarelle.com Group	[148]	Un­known	Yes
+.aramco	Aramco	[9]		
+.audi	Audi	[9]		
+.auspost	Australia Post	[9]		
+.aws	Amazon Web Services	[9]		
+.axa	Axa	[149]	Yes[10]	Yes
+.azure	Microsoft	[9]		
+.baidu	Baidu	[9]		
+.bananarepublic	Gap (Banana Republic)	[9]		
+.barclaycard	Barclays	[150]	Un­known	Yes
+.barclays	Barclays	[150]	Un­known	Yes
+.basketball	FIBA	[151]		
+.bauhaus	Werkhaus GmbH	[9]		
+.bbc	BBC	[9]		
+.bbt	BB&T	[9]		
+.bbva	Banco Bilbao Vizcaya Argentaria	[9]		
+.bcg	Boston Consulting Group	[9]		
+.bentley	Bentley	[9]		
+.bharti	Bharti Enterprises	[9]		
+.bing	Microsoft (Bing)	[9]		
+.blanco	BLANCO GmbH + Co KG	[9]		
+.bloomberg	Bloomberg	[152]	Un­known	Yes
+.bms	Bristol-Myers Squibb	[9]		
+.bmw	BMW	[153]	No	Yes
+.bnl	Banca Nazionale del Lavoro	[154]	Un­known	Yes
+.bnpparibas	BNP Paribas	[155]	Un­known	Yes
+.boehringer	Boehringer Ingelheim	[9]		
+.bond	Bond University[9]	Later became a gTLD on 26 November 2019		
+.booking	Booking.com	[9]		
+.bosch	Robert Bosch GmbH	[9]		
+.bostik	Bostik	[9]		
+.bradesco	Bradesco	[156]	Un­known	Yes
+.bridgestone	Bridgestone	[9]		
+.brother	Brother Industries	[9]		
+.bugatti	Bugatti	[9]		
+.cal	Google (Google Calendar)	[157]	Un­known	Yes
+.calvinklein	PVH	[9]		
+.canon	Canon	[9]		
+.capitalone	Capital One	[9]		
+.caravan	Caravan International	[158]	Un­known	Yes
+.cartier	Richemont DNS	[9]		
+.cba	Commonwealth Bank	[9]		
+.cbn	Christian Broadcasting Network	[9]		
+.cbre	CBRE Group	[9]		
+.cbs	CBS	[9]		
+.cern	CERN	[159]	Un­known	Yes
+.cfa	CFA Institute	[9]		
+.chanel	Chanel	[9]		
+.chase	Chase Bank	[9]		
+.chintai	Chintai Corporation	[9]		
+.chrome	Google (Google Chrome)	[160]	Un­known	Yes
+.chrysler	Chrysler	[9]		
+.cipriani	Hotel Cipriani Srl	[9]		
+.cisco	Cisco Systems	[9]		
+.citadel	Citadel Domain	[9]		
+.citi	Citigroup	[9]		
+.citic	CITIC Group	[161]	No	Yes
+.clubmed	Club Med	[9]		
+.comcast	Comcast	[9]		
+.commbank	Commonwealth Bank	[9]		
+.creditunion	CUNA Performance Resources	[9]		
+.crown	Crown Equipment Corporation	[9]		
+.crs	Federated Co-operatives
+(Co-Operative Retailing System)	[162]	Un­known	Yes
+.csc	DXC Technology			
+.cuisinella	Société Alsacienne de Meubles (Cuisinella)	[163]	Un­known	Yes
+.dabur	Dabur	[9]		
+.datsun	Nissan (Datsun)	[9]		
+.dealer	Dealer Dot Com	[9]		
+.dell	Dell	[9]		
+.deloitte	Deloitte	[9]		
+.delta	Delta Air Lines	[9]		
+.dhl	Deutsche Post	[9]		
+.discover	Discover Financial Services	[9]		
+.dish	Dish Network	[9]		
+.dnp	Dai Nippon Printing	[164]	Un­known	Yes
+.dodge	Chrysler (Dodge)	[9]		
+.dunlop	Goodyear Tire and Rubber Company (Dunlop Tyres)	[9]		
+.dupont	DuPont	[9]		
+.dvag	Deutsche Vermögensberatung	[165]	Un­known	Yes
+.edeka	Edeka	[166]	Un­known	Yes
+.emerck	Merck Group	[167]	Un­known	Yes
+.epson	Seiko Epson	[9]		
+.ericsson	Ericsson	[9]		
+.erni	ERNI Group Holding AG	[9]		
+.esurance	Esurance	[9]		
+.etisalat	Etisalat	[9]		
+.eurovision	European Broadcasting Union (Eurovision)	[9]		
+.everbank	EverBank	[168]	Un­known	Yes
+.extraspace	Extra Space Storage	[9]		
+.fage	Fage	[9]		
+.fairwinds	FairWinds Partners	[9]		
+.farmers	Farmers Insurance Exchange	[9]		
+.fedex	FedEx	[9]		
+.ferrari	Fiat Chrysler Automobiles (Ferrari)	[9]		
+.ferrero	Ferrero	[9]		
+.fiat	Fiat Chrysler Automobiles	[9]		
+.fidelity	Fidelity Investments	[9]		
+.firestone	Bridgestone	[9]		
+.firmdale	Firmdale Holdings	[169]	Un­known	Yes
+.flickr	Yahoo! (Flickr)	[9]		
+.flir	FLIR Systems	[9]		
+.flsmidth	FLSmidth	[170]	Un­known	Yes
+.ford	Ford	[9]		
+.fox	Fox Broadcasting Company	[9]		
+.fresenius	Fresenius Immobilien-Verwaltungs-GmbH	[9]		
+.forex	Dotforex Registry Ltd	[9]		
+.frogans	OP3FT	Solely for use by the Frogans technology[171]	Yes[10]	Yes
+.frontier	Frontier Communications	[9]		
+.fujitsu	Fujitsu	[9]		
+.fujixerox	Fuji Xerox	[9]		
+.gallo	E & J Gallo Winery	[9]		
+.gallup	Gallup	[9]		
+.gap	Gap	[9]		
+.gbiz	Google	[172]	Un­known	Yes
+.gea	GEA Group	[9]		
+.genting	Genting Group	[9]		
+.giving	Giving Limited	[9]		
+.gle	Google	[173]	Un­known	Yes
+.globo	Grupo Globo	[174]	No	Yes
+.gmail	Google (Gmail)	[175]	Un­known	Yes
+.gmo	GMO Internet	[176]	Un­known	Yes
+.gmx	1&1 Mail & Media (GMX, Global Message Exchange)	[177]	Un­known	Yes
+.godaddy	Go Daddy	[9]		
+.goldpoint	Yodobashi Camera	[9]		
+.goodyear	Goodyear Tire and Rubber Company	[9]		
+.goog	Google	[178]	Un­known	Yes
+.google	Google	[179]	Un­known	Yes
+.grainger	Grainger Registry Services, LLC	[9]		
+.guardian	Guardian Life Insurance Company of America	[9]		
+.gucci	Gucci	[9]		
+.hbo	HBO	[9]		
+.hdfc	Housing Development Finance Corporation	[9]		
+.hdfcbank	HDFC Bank	[9]		
+.hermes	Hermès	[9]		
+.hisamitsu	Hisamitsu Pharmaceutical	[9]		
+.hitachi	Hitachi	[9]		
+.hkt	Hong Kong Telecom	[9]		
+.honda	Honda	[9]		
+.honeywell	Honeywell	[9]		
+.hotmail	Microsoft (Hotmail)	[9]		
+.hsbc	HSBC	[180]	Un­known	Yes
+.hughes	Hughes Network Systems	[9]		
+.hyatt	Hyatt	[9]		
+.hyundai	Hyundai Motor Company	[9]		
+.ibm	IBM	[181]	Un­known	Yes
+.ieee	Institute of Electrical & Electronics Engineers	[9]		
+.ifm	ifm electronic gmbh	[9]		
+.ikano	Ikano	[9]		
+.imdb	Amazon (IMDb)	[9]		
+.infiniti	Nissan (Infiniti)	[9]		
+.intel	Intel	[9]		
+.intuit	Intuit	[9]		
+.ipiranga	Ipiranga	[9]		
+.iselect	iSelect	[9]		
+.itau	Itaú Unibanco	[9]		
+.itv	ITV	[9]		
+.iveco	CNH Industrial (Iveco)	[9]		
+.jaguar	Jaguar Land Rover	[9]		
+.java	Oracle (Java)	[9]		
+.jcb	JCB	[9]		
+.jcp	JCP Media	[9]		
+.jeep	Chrysler (Jeep)	[9]		
+.jpmorgan	JPMorgan Chase	[9]		
+.juniper	Juniper Networks	[9]		
+.kddi	KDDI	[9]		
+.kerryhotels	Kerry Trading Co. Limited	[9]		
+.kerrylogistics	Kerry Trading Co. Limited	[9]		
+.kerryproperties	Kerry Trading Co. Limited	[9]		
+.kfh	Kuwait Finance House	[9]		
+.kia	Kia Motors Corporation	[9]		
+.kinder	Ferrero (Kinder Surprise)	[9]		
+.kindle	Amazon (Amazon Kindle)	[9]		
+.komatsu	Komatsu	[9]		
+.kpmg	KPMG	[9]		
+.kred	KredTLD	[182]	Un­known	Yes
+.kuokgroup	Kerry Trading Co. Limited	[9]		
+.lacaixa	Caixa d’Estalvis i Pensions de Barcelona	[183]	Un­known	Yes
+.ladbrokes	Ladbrokes	[9]		
+.lamborghini	Lamborghini	[9]		
+.lancaster	Lancaster (Coty Inc.)	[9]		
+.lancia	Fiat Chrysler Automobiles (Lancia)	[9]		
+.lancome	L'Oréal	[9]		
+.landrover	Jaguar Land Rover	[9]		
+.lanxess	Lanxess	[9]		
+.lasalle	JLL	[9]		
+.latrobe	La Trobe University	[184]	Un­known	Yes
+.lds	The Church of Jesus Christ of Latter-day Saints (LDS Church)[185]	[186]	Un­known	Yes
+.leclerc	E.Leclerc	[187]		
+.lego	Lego Group	[9]		
+.liaison	Liaison Technologies	[9]		
+.lexus	Toyota (Lexus)	[9]		
+.lidl	Lidl	[9]		
+.lifestyle	Lifestyle Domain Holdings, Inc.	[9]		
+.lilly	Eli Lilly & Company	[9]		
+.lincoln	Ford (Lincoln)	[9]		
+.linde	Linde	[9]		
+.lipsy	Lipsy Ltd	[9]		
+.lixil	Lixil Group	[9]		
+.locus	Locus Analytics	[9]		
+.lotte	Lotte Holdings	[9]		
+.lpl	LPL Financial	[9]		
+.lplfinancial	LPL Financial	[9]		
+.lundbeck	Lundbeck	[9]		
+.lupin	Lupin Limited	[9]		
+.macys	Macy's	[9]		
+.maif	Mutuelle Assurance Instituteur France (MAIF)	[9]		
+.man	MAN	[9]		
+.mango	Mango	[188]	Latin script[10]	Yes
+.marriott	Marriott International	[9]		
+.maserati	Fiat Chrysler Automobiles (Maserati)	[9]		
+.mattel	Mattel	[9]		
+.mckinsey	McKinsey & Company	[9]		
+.metlife	MetLife	[9]		
+.microsoft	Microsoft	[9]		
+.mini	BMW (Mini)	[189]	No	Yes
+.mit	Massachusetts Institute of Technology	[9]		
+.mitsubishi	Mitsubishi Corporation	[9]		
+.mlb	MLB Advanced Media	[9]		
+.mma	MMA IARD	[9]		
+.monash	Monash University	[190][191]	No	Yes
+.mormon	The Church of Jesus Christ of Latter-day Saints (LDS Church)[185]	[192]	Un­known	Yes
+.moto	Motorola	[9]		
+.movistar	Telefónica (Movistar)	[9]		
+.msd	MSD Registry Holdings, Inc.	[9]		
+.mtn	MTN	[9]		
+.mtr	MTR Corporation	[9]		
+.mutual	Northwestern Mutual	[9]		
+.nadex	Nadex	[9]		
+.nationwide	Nationwide Mutual Insurance Company	[9]		
+.natura	Natura & Co	[9]		
+.nba	National Basketball Association	[9]		
+.nec	NEC	[9]		
+.netflix	Netflix	[9]		
+.neustar	Neustar	[193]	No	Yes
+.newholland	CNH Industrial (New Holland Agriculture, New Holland Construction)	[9]		
+.nfl	National Football League	[9]		
+.nhk	NHK	[194]	Un­known	Yes
+.nico	Dwango (Niconico)	[195]	Un­known	Yes
+.nike	Nike	[9]		
+.nikon	Nikon	[9]		
+.nissan	Nissan	[9]		
+.nissay	Nippon Life	[9]		
+.nokia	Nokia	[9]		
+.northwesternmutual	Northwestern Mutual	[9]		
+.norton	NortonLifeLock	[9]		
+.nra	National Rifle Association of America	[196]	Un­known	Yes
+.ntt	Nippon Telegraph & Telephone	[9]		
+.obi	OBI Group Holding SE & Co. KGaA	[9]		
+.office	Microsoft (Microsoft Office)	[9]		
+.omega	Swatch Group (Omega)	[9]		
+.oracle	Oracle	[9]		
+.orange	Orange	[9]		
+.otsuka	Otsuka Pharmaceutical	[197]	Un­known	Yes
+.ovh	OVH	[198]	French[10]	Yes
+.panasonic	Panasonic	[9]		
+.pccw	PCCW	[9]		
+.pfizer	Pfizer	[9]		
+.philips	Philips	[9]		
+.piaget	Piaget	[199]	Un­known	Yes
+.pictet	Pictet	[9]		
+.ping	Ping	[9]		
+.pioneer	Pioneer Corporation	[9]		
+.play	Google (Google Play)	[9]		
+.playstation	Sony (PlayStation)	[9]		
+.pohl	Deutsche Vermögensberatung
+(founder Reinfried Pohl)	[200]	Un­known	Yes
+.politie	Politie Nederland	[9]		
+.praxi	Praxi	[201]	Un­known	Yes
+.prod	Google (products)	[202]	Un­known	Yes
+.progressive	Progressive Corporation	[9]		
+.pru	Prudential Financial	[9]		
+.prudential	Prudential Financial	[9]		
+.pwc	PwC	[203]	Un­known	Yes
+.quest	Quest Software	[9]		
+.qvc	QVC	[9]		
+.redstone	Redstone Haute Couture Co	[9]		
+.reliance	Reliance Industries	[9]		
+.rexroth	Robert Bosch GmbH	[9]		
+.ricoh	Ricoh	[9]		
+.rmit	Royal Melbourne Institute of Technology	[9]		
+.rocher	Ferrero (Ferrero Rocher)	[9]		
+.rogers	Rogers Communications	[9]		
+.rwe	RWE	[9]		
+.safety	Safety Registry Services, LLC.	[9]		
+.sakura	SAKURA Internet Inc.	[9]		
+.samsung	Samsung SDS	[9]		
+.sandvik	Sandvik	[9]		
+.sandvikcoromant	Sandvik Coromant	[204]	Un­known	Un­known
+.sanofi	Sanofi	[9]		
+.sap	SAP	[205]		
+.saxo	Saxo Bank	[9]		
+.sbi	State Bank of India	[9]		
+.sbs	Special Broadcasting Service[9]	Later became a gTLD on 15 June 2021		
+.sca	Svenska Cellulosa	[206]	Un­known	Yes
+.scb	Siam Commercial Bank		Thai[10]	Yes
+.schaeffler	Schaeffler Technologies	[9]		
+.schmidt	Société Alsacienne de Meubles (Cuisines Schmidt)	[207]	Un­known	Yes
+.schwarz	Schwarz Gruppe	[9]		
+.scjohnson	SC Johnson & Son	[9]		
+.scor	SCOR	[9]		
+.seat	SEAT	[9]		
+.sener	Sener Ingeniería y Sistemas, S.A.	[9]		
+.ses	SES	[9]		
+.sew	SEW Eurodrive	[9]		
+.seven	Seven West Media	[9]		
+.sfr	SFR	[9]		
+.seek	Seek	[208]	No	Un­known
+.shangrila	Shangri-La Hotels & Resorts	[9]		
+.sharp	Sharp Corporation	[9]		
+.shaw	Shaw Cablesystems G.P.	[9]		
+.shell	Shell	[9]		
+.shriram	Shriram Capital	[9]		
+.sina	Sina Corp	[9]		
+.sky	Sky Group	[9]		
+.skype	Microsoft (Skype)	[9]		
+.smart	Smart Communications	[9]		
+.sncf	SNCF	[9]		
+.softbank	SoftBank	[9]		
+.sohu	Sohu	[209]	Un­known	Yes
+.sony	Sony	[9]		
+.spiegel	Der Spiegel	[210]	Un­known	Yes
+.stada	Stada Arzneimittel	[9]		
+.staples	Staples	[9]		
+.star	Disney Star	[9]		
+.starhub	StarHub	[9]		
+.statebank	State Bank of India	[9]		
+.statefarm	State Farm	[9]		
+.statoil	Statoil	[9]		
+.stc	Saudi Telecom Company	[9]		
+.stcgroup	Saudi Telecom Company	[9]		
+.suzuki	Suzuki	[211]	Un­known	Yes
+.swatch	Swatch Group	[9]		
+.swiftcover	Swiftcover	[9]		
+.symantec	NortonLifeLock	[9]		
+.taobao	Alibaba Group (Taobao)	[9]		
+.target	Target	[9]		
+.tatamotors	Tata Motors	[9]		
+.tdk	TDK	[9]		
+.telecity	TelecityGroup	[9]		
+.telefonica	Telefónica	[9]		
+.temasek	Temasek Holdings	[9]		
+.teva	Teva Pharmaceuticals	[9]		
+.tiffany	Tiffany & Co	[9]		
+.tjx	TJX Companies	[9]		
+.toray	Toray Industries	[9]		
+.toshiba	Toshiba	[9]		
+.total	Total	[9]		
+.toyota	Toyota	[9]		
+.travelchannel	Lifestyle Domain Holdings, Inc. (Travel Channel)	[9]		
+.travelers	Travelers TLD, LLC (The Travelers Companies)	[9]		
+.tui	TUI	[212]	Un­known	Yes
+.tvs	T V Sundram Iyengar & Sons Private Limited	[9]		
+.ubs	UBS	[9]		
+.unicom	China Unicom	[9]		
+.uol	Universo Online	Delegated to UOL subsidiary UBN Internet.[213]	Un­known	Yes
+.ups	United Parcel Service	[9]		
+.vanguard	Vanguard Group	[9]		
+.verisign	VeriSign	[9]		
+.vig	Vienna Insurance Group	[9]		
+.viking	Viking River Cruises	[9]		
+.virgin	Virgin Group	[9]		
+.visa	Visa	[9]		
+.vista	Vistaprint	[9]		
+.vistaprint	Vistaprint	[9]		
+.vivo	Telefónica Brasil	[9]		
+.volkswagen	Volkswagen Group of America	[9]		
+.volvo	Volvo	[9]		
+.walmart	Walmart	[9]		
+.walter	Sandvik	[9]		
+.weatherchannel	IBM (The Weather Company)	[9]		
+.weber	Saint-Gobain	[9]		
+.weir	Weir Group	[9]		
+.williamhill	William Hill	[214]	Un­known	Yes
+.windows	Microsoft (Microsoft Windows)	[9]		
+.wme	Endeavor	[215]	Un­known	Yes
+.wolterskluwer	Wolters Kluwer	[9]		
+.woodside	Woodside Petroleum	[9]		
+.wtc	World Trade Centers Association	[216]	Un­known	Yes
+.xbox	Microsoft Xbox	[9]		
+.xerox	Fuji Xerox	[9]		
+.xfinity	Comcast	[9]		
+.yahoo	Yahoo!	[9]		
+.yamaxun	Amazon (Amazon China)	[9]		
+.yandex	Yandex	[217]	Un­known	Yes
+.yodobashi	Yodobashi Camera	[9]		
+.youtube	Google (YouTube)	[218]	Un­known	Yes
+.zappos	Amazon (Zappos)	[9]		
+.zara	Inditex (Zara)	[9]		
+.zippo	Zippo	[9]		
+Internationalized brand top-level domains
+DNS name	IDN TLD	Entity	Script	Transliteration	Comments	DNSSEC
+Special-Use Domains
+ICANN/IANA has created some Special-Use domain names which are meant for special technical purposes. ICANN/IANA owns all of the Special-Use domain names.[226]
+
+Name	Entity	Notes	IDN	DNSSEC
+.example		Not installed as a domain name, but usable in text as an example.
+(example.com, example.net, and example.org are also reserved for this purpose but are active sites.)	Un­known	
+.invalid		Not installed as a domain name, but usable in testing as a domain which wouldn't work.	Un­known	
+.local		Local network. Must be used with an mDNS server.[227]	Un­known	
+.localhost		Points back to own computer.	Un­known	
+.onion		Connection to the Tor network.	Un­known	
+.test		Meant for testing DNS software.	Un­known	
+Non-IANA domains
+Besides the TLDs managed (or at least tracked) by IANA or ICANN, other independent groups have created, or had attempted to create, their own TLDs with varying technical specifications, functions, and outcomes.
+
+Blockchain-registered
+Blockchain-based domains are registered and exchanged using a public blockchain like Ethereum. Often times, these domains serve specific functions such as creating human-readable references to smart contract addresses used in DApps or personal wallet addresses.[228] Generally, these non-standard domains are unreachable through the normal DNS resolution process and instead require clients to use some sort of transparent web proxy or gateway to access them
+
+Name	Blockchain	Notes
+N/A	Handshake	Handshake is both an alternative DNS root zone and a domain name-centric blockchain meant for managing TLDs in a decentralized way which allows virtually any domain to be registered as a TLD by end users. The project intends to be a more resilient and distributed implementation of the global root zone without needing a centralized organization, like ICANN, to manage or operate it. Though it doesn't aim to outright replace the existing root zone, as it reserves all existing TLDs so that a query for wikipedia.org, for example, that is sent to a Handshake node can be redirected to the traditional root.[229]
+.eth	Ethereum	Domains under the .eth TLD are primarily used as human-readable aliases to Ethereum wallet addresses, rather than IP addresses,[230] though some efforts into expanding the use of .eth into the traditional DNS space have been made.
+.crypto, .zil	Ethereum, Zilliqa	Both .crypto and .zil aim to make cryptocurrency wallet address resolution easier, with the exception that, unlike the other examples mentioned here, the two TLDs are the product of a for-profit company, Unstoppable Domains, that markets the domains as an alternative DNS root despite being entirely dependent on the traditional root zone.[231]
+.bit	Namecoin	Namecoin's .bit TLD technically operates as a single-domain DNS root, though has historically peered with the OpenNIC root zone to provide greater accessibility. The popularity and usage of .bit domains is much lower than the other projects mentioned, despite it being the earliest example. This is primarily due to the negative reputation Namecoin has garnered after .bit domains became popular for sharing and distributing illegal or illicit content such as malware, which ultimately prompted OpenNIC to end its peering agreement and stop serving the TLD in its root zone in 2018.[232]
+Alternate roots
+In the case of alternative DNS roots, organizations or projects make use of the same mechanisms of the DNS but instead take on the role of ICANN in managing and administering an entirely separate root zone, thus having the ability to create new TLDs independently. However, this doesn't make these domains any less isolated from the rest of the internet, though the ability for clients to resolve them theoretically only requires switching to a recursive DNS resolver that recognizes and serves records underneath the alternate root zone.
+
+Name	Root	Notes
+N/A	Handshake	The list of registered TLDs on the Handshake blockchain is too large and dynamic to enumerate here.
+.bbs .chan .cyb .dyn .geek .gopher .indy .libre .neo .null .o .oss .oz .parody .pirate	OpenNIC	
+.fur	FurNIC	
+.lib .coin .emc .bazar	Emercoin	
+.ku .te .ti .uu .ko .rm	New Nations	
+See also
+Country code top-level domain
+Generic top-level domain
+IDN Test TLDs
+ISO 3166-1 alpha-2, the standard for two-letter country codes, which most ccTLDs are based on
+Proposed top-level domain
+Second-level domain, information about .co.jp, .co.uk, .co.kr, .co.nf, etc.
+Public Suffix List
+Explanatory notes
+ Domain registry is operated by United TLD Holdco Ltd. t/a Rightside Registry, a subsidiary of the Rightside Group.
+ Operated by Charleston Road Registry, Inc., a subsidiary of Google. See [1].
+ A subsidiary of Minds + Machines Group (formerly Top Level Domain Holdings.)
+Internet Domain Notes
+ Operating as Half Oaks, LLC
+ Operating as Knob Town, LLC
+ Operating as Steel Falls, LLC
+ Operating as Baxter Hill, LLC
+ Operating as Half Hallow, LLC
+ Operating as Grand Hollow, LLC
+ Operating as Over Galley, LLC
+ Operating as Atomic Madison, LLC
+ Operating as Spring Cross, LLC
+ Operating as Half Sunset, LLC
+ Operating as Atomic Maple, LLC
+ Operating as Delta Dynamite, LLC
+ Operating as Delta Mill, LLC
+ Operating as Foggy Hollow, LLC
+ Operating as Goose Cross, LLC
+ Operating as Wild Corner, LLC
+ Operating as Delta Lake, LLC
+ Operating as New Falls, LLC
+ Operating as Tin Mill, LLC
+ Operating as Sand Cover, LLC
+ Operating as Holly Fields, LLC
+ Operating as Snow Sky, LLC
+ Operating as Black Corner, LLC
+ Operating as Fox Shadow, LLC
+ Operating as Goose Park, LLC
+ Operating as Steel Lake, LLC
+ Operating as Puff Willow, LLC
+ Operating as Trixy Cover, LLC
+ Operating as Fox Orchard, LLC
+ Operating as Silver Avenue, LLC
+ Operating as Pine Mill, LLC
+ Operating as Pine House, LLC
+ Operating as Fox Dynamite, LLC
+ Operating as Magic Woods, LLC
+ Operating as Koko Lake, LLC
+ Operating as Snow Shadow, LLC
+ Operating as Binky Frostbite, LLC
+ Operating as Spring Way, LLC
+ Operating as Pine Fest, LLC
+ Operating as Sand Sunset, LLC
+ Operating as Steel Station, LLC
+ Operating as Tin Birch, LLC
+ Operating as John Edge, LLC
+ Operating as Dash Park, LLC
+ Operating as Half Trail, LLC
+ Operating as Extra Madison, LLC
+ Operating as Holly Hill, LLC
+ Operating as Sugar Cross, LLC
+ Operating as Brice Way, LLC
+ Operating as Spring Madison, LLC
+ Operating as Binky Birch, LLC
+ Operating as Romeo Canyon.
+ Operating as Snow Oaks, LLC
+ Operating as Corn Station, LLC
+ Operating as Trixy Park, LLC
+ Operating as Pioneer Maple, LLC
+ Operating as Spring Falls, LLC
+ Operating as Magic Pass, LLC
+ Operating as Victor Beach, LLC
+ Operating as Atomic Pipe, LLC
+ Operating as Just Maple, LLC
+ Operating as Cotton Cypress, LLC
+ Operating as Just Cover, LLC
+ Operating as Fox Woods, LLC
+ Operating as Brice Orchard, LLC
+ Operating as Fox Station, LLC
+ Operating as Half Cypress, LLC
+ Operating as John Dale, LLC
+ Operating as John Castle, LLC
+ Operating as Lone Fields, LLC
+ Operating as Sugar House, LLC
+ Operating as Top Level Design
+ Operating as Goose Sky, LLC
+ Operating as Black Cover, LLC
+ Operating as Over Madison, LLC
+ Operating as Corn Sunset, LLC
+ Operating as Snow Moon, LLC
+ Operating as Pioneer Cypress, LLC
+ Operating as Silver Glen, LLC
+ Operating as John Madison, LLC
+ Operating as Goose Woods, LLC
+ Operating as Sugar Park, LLC
+ Operating as Outer House, LLC
+ Operating as Outer Maple, LLC
+ Operating as Pioneer Willow, LLC
+ Operating as Wild Way, LLC
+ Operating as Holly Glen, LLC
+ Operating as Just Goodbye, LLC
+ Operating as Pine Moon, LLC
+ Operating as Victor Trail, LLC
+ Operating as Trixy Oaks, LLC
+ Operating as John McCook, LLC
+ Operating as Big Fest, LLC
+ Operating as Hidden Frostbite, LLC
+ Operating as June Woods, LLC
+ Operating as John Goodbye, LLC
+ Operating as Fern Pass, LLC
+ Operating as Dog Beach, LLC
+ Operating as Grand Glen, LLC
+ Operating as Trixy Manor, LLC
+ Operating as Magic Glen, LLC
+ Operating as Sea Goodbye, LLC
+ Operating as Sugar Glen, LLC
+ Operating as Sea Corner, LLC
+ Operating as Foggy Sky, LLC
+ Operating as Foggy Moon, LLC
+ Operating as Snow Galley, LLC
+ Operating as Spring Tigers, LLC
+ Operating as Afilias Domains No. 5 Limited.
+ Operating as Magic Birch, LLC
+ Operating as Big Pass, LLC
+ Operating as Grand Island, LLC
+ Operating as Big Hollow, LLC
+ Operating as Lone Sunset, LLC
+ Operating as Binky Glen, LLC
+ Operating as Snow Avenue, LLC
+ Operating as Little Galley, LLC
+ Operating as Fox Castle, LLC
+ Operating as Binky Galley, LLC
+ Operating as Fern Madison, LLC
+ Operating as Ruby Town, LLC
+ Operating as Silver Cover, LLC
+ Operating as Atomic Fields, LLC
+ Operating as Half Falls, LLC
+ Operating as Grand Orchard, LLC
+ Operating as Tin Avenue, LLC
+ Operating as Dash Cypress, LLC
+ Operating as Victor Frostbite, LLC
+ Operating as Delta Orchard, LLC
+ Operating as New Cypress, LLC
+ Operating as Outer Moon, LLC
+ Operating as Auburn Bloom, LLC
+ Operating as Pioneer Tigers, LLC
+Citations
+ "IANA — Root Zone Database". iana.org. Retrieved 31 May 2020.
+ "IANA's list of TLDs in machine-readable format". Iana.org. Retrieved 21 October 2014.
+ "Daily TLD DNSSEC Report". icann.org. ICANN. 31 May 2020. Archived from the original on 25 March 2019. Retrieved 31 May 2020.
+ "Root Zone file". Retrieved 20 June 2020.
+ "IANA root zone database". Iana.org. Retrieved 10 November 2015.
+ "Root Zone Database". iana.org. Retrieved 21 October 2014.
+ National Research Council, Committee on Internet Navigation and the Domain Name System: Technical Alternatives and Policy Implications; National Research Council, Computer Science and Telecommunications Board (7 August 2005). Signposts in Cyberspace: The Domain Name System and Internet Navigation. National Academies Press. ISBN 978-0-309-09640-9. {{cite book}}: |author1= has generic name (help)
+ "FFM acquired by GRS, immediate price changes". 3 September 2018.
+ "IANA Root Zone Database". Iana.org. Retrieved 25 July 2018.
+ "IANA — Repository of IDN Practices". iana.org. Retrieved 22 September 2014.
+ ".app". get.app. Retrieved 9 May 2018.
+ ".apple". Retrieved 15 May 2020.
+ "Legal - .Apple TLD Policies - Apple". Apple Legal. Retrieved 22 April 2021.
+ ".ARCHI Online Visibility for Architects Worldwide". Retrieved 7 October 2014.
+ ".ARCHI policies". Archived from the original on 11 October 2014. Retrieved 7 October 2014.
+ "Uniregistry IDN Policy". Uniregistry.link. Archived from the original on 25 June 2014. Retrieved 5 September 2014.
+ "Archived copy" (PDF). Archived from the original (PDF) on 12 July 2015. Retrieved 21 April 2015.
+ ".bio: Why .bio?". domains.bio. Archived from the original on 4 September 2018. Retrieved 18 March 2020.
+ ".bio: Eligibility Requirements". domains.bio. Archived from the original on 4 September 2018. Retrieved 18 March 2020.Identity Digital
+ "IFOAM Organics International: Principles of Organic Agriculture". IFOAM Organics International. Archived from the original on 3 March 2020. Retrieved 18 March 2020.
+ "Afilias Limited: Afilias Acquires Premium TLDs .ARCHI, .BIO and .SKI". afilias.info. Archived from the original on 17 April 2018. Retrieved 18 March 2020.
+ "Why .BLACK?". Black/why-black. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ "About Knock Knock, WHOIS There". 13 April 2016. Retrieved 2 August 2016.
+ "Why .BLUE?". Dotblue.blue. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ "Register your .bot domain". www.amazonregistry.com.
+ "Transfer Report for cam". www.iana.org. Retrieved 2 February 2023.
+ "CancerResearch launch Site". Home.cancerresearch. Retrieved 8 January 2018.
+ ".CEO Domain Names : .CEO Domains : Register New TLDs". dynadot.com. Retrieved 19 November 2014.
+ "DotClub FAQ - DotClub". Retrieved 25 May 2014.
+ "Amendment to Registry Agreement" (PDF). Archived from the original (PDF) on 12 July 2015. Retrieved 21 April 2015.
+ ".cyou - A New Domain Extension For Gen Z individuals And Brands". shortdot.bond. 3 March 2020. Retrieved 19 May 2021.
+ "Transfer Report for cyou". www.iana.org. Retrieved 19 May 2021.
+ Who is .eco for? .eco Registry. Retrieved 26 June 2017.
+ About the .eco System .eco Registry. Retrieved 26 June 2017
+ [ [2] Big Room Inc.] Retrieved on 26 June 2017
+ "application for .ESQ". ICANN. Retrieved 21 November 2014.
+ §18.b.iv, application for .FLY, ICANN. Accessed on line 21 November 2014.
+ ".foo". Icannwiki.org. Retrieved 21 October 2014.
+ "Setting a Higher Bar: Our .gay Commitment Is an Industry-First". www.circleid.com.
+ ".gle Registry Agreement". Icann.org. Retrieved 23 July 2020.
+ "Resources". Icann.org. Archived from the original on 17 October 2014. Retrieved 21 October 2014.
+ Acceptable use and anti-abuse policy Archived 25 November 2014 at archive.today, nic.green, accessed on line 24 November 2014.
+ "Archived copy" (PDF). Archived from the original (PDF) on 12 July 2015. Retrieved 21 April 2015.
+ "Why .ink? - .ink". Nic.ink. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ "Registry Agreement institute". www.icann.org. Archived from the original on 4 March 2016.
+ "What is .jobs?". Nic.jobs. Archived from the original on 20 February 2008. Retrieved 21 October 2014.
+ "Join Law FAQ". join.law. Retrieved 23 September 2017.
+ ".LGBT Acceptable Use Policy". Archived from the original on 14 March 2015. Retrieved 1 April 2015.
+ ".link Official - Uniregistry". Nic.link. Retrieved 21 October 2014.
+ "Uniregistry extensions and domains". Retrieved 26 December 2015.
+ "Registration Policies | OnGood".
+ "ntt Registration Policies". Nippon Telegraph and Telephone Corporation. Retrieved 25 August 2022.
+ "TLD Registration Policies — Registration Policy - .OPEN" (PDF). American Express Travel Related Services Co., Inc. (nic.open). Retrieved 3 July 2020.
+ ".ORGANIC Eligibility". Archived from the original on 29 November 2014. Retrieved 18 September 2014.
+ nic.pharmacy Archived 25 February 2015 at the Wayback Machine, accessed on line 1 December 2014.
+ "physio - Network Information Centre". Nic.physio. Retrieved 8 January 2018.
+ ".physio Eligibility Policy" (PDF). Archived from the original (PDF) on 5 November 2014. Retrieved 4 November 2014.
+ UPU. "Description of TLD Policies: Criteria for Registration". E17. Retrieved 1 January 2013.
+ UPU. "Description of TLD Policies:TLD String". E2. Retrieved 1 January 2013. Only ASCII characters are used
+ NAR Announces Launch of .REALTOR Top-Level Domain Archived 14 December 2014 at the Wayback Machine, realtor.org. Accessed on line 2 December 2014.
+ "Why .RED?". Get.red. Archived from the original on 12 February 2015. Retrieved 21 October 2014.
+ nic.reit. Retrieved 2 December 2014.
+ "CentralNic Account Manager". Manage.centralnic.com. Retrieved 21 October 2014.
+ "A respectful domain name for remembering loved ones". Retrieved 29 December 2014.
+ "scholarships Registry Agreement". ICANN. Retrieved 8 January 2018.
+ "Scholarships Domain Names | The .Scholarships Registry". Nic.scholarships. Retrieved 8 January 2018.
+ "Archived copy" (PDF). Archived from the original (PDF) on 12 July 2015. Retrieved 21 April 2015.
+ Telnic. "IDN.tel". Archived from the original on 2 May 2010. Retrieved 2 September 2010.
+ "Termination of the Registry Agreement for .UCONNECT" (PDF). Archived (PDF) from the original on 5 December 2019.
+ ".volvo Registration Policy" (PDF).
+ ".VOTE Registration Policy". DotVote.
+ "Zodiac Holdings Limited". En.nic.wang. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ "Daily list of new gTLD domain name registrations". Retrieved 10 November 2014.
+ "Weirdest new gTLD launch yet? .wed launches with a single registrar". DomainIncite - Domain Name News & Opinion. 18 March 2014. Retrieved 21 October 2014.
+ ".WED Third Level Extensions". Atgron, Inc Introduces .WED. A New Top Level Domain for Your Wedding. Retrieved 21 October 2014.
+ "Resources". Icann.org. Archived from the original on 10 October 2014. Retrieved 21 October 2014.
+ "New TLDs this week: .London, .Global and more". Domain Name Wire - Domain Name News & Views. Archived from the original on 12 October 2014. Retrieved 21 October 2014.
+ "关于拟注销北京千橡网景科技发展有限公司".ren"顶级域域名注册管理机构许可的公示" (in Chinese). 9 December 2019. Retrieved 9 December 2019.
+ §5, Policy for the Registration of .reise Domain Names Archived 20 February 2020 at the Wayback Machine, dotreise GmbH. Accessed on line 2 December 2014.
+ "'Immo' as abbreviation for 'immobiliën'". Archived from the original on 12 August 2016. Retrieved 13 September 2016.
+ ".VOTO Registration Policy". Archived from the original on 18 December 2014. Retrieved 18 December 2014.
+ "Registrant FAQs". Archived from the original on 18 December 2014. Retrieved 18 December 2014.
+ General Eligibility Requirements and Principles for the new .LAW and .ABOGADO top-level domains Archived 29 November 2014 at the Wayback Machine, accessed on line 20 November 2014.
+ "Why choose .LTDA?". .LTDA advantages. Archived from the original on 6 October 2014.
+ "IANA — Repository of IDN Practices". iana.org. Retrieved 2 December 2014.
+ "Delegated Strings". Newgtlds.icann.org. Retrieved 21 October 2014.
+ "Chinese government buys 20,000 new IDN domain names". Domain Name Wire - Domain Name News & Views. 19 March 2014. Retrieved 21 October 2014.
+ "Google Registry – Google". Retrieved 21 October 2014.
+ "Report on the Delegation of the .বাংলা ("bangla") domain representing Bangladesh in Bengali script to the Ministry of Posts, Telecommunications and Information Technology, Posts and Telecommunications Division". www.iana.org. Retrieved 31 December 2022.
+ "Internationalized Domain Names (IDNs) | Registry.In". www.registry.in. Retrieved 19 December 2021.
+ ".africa Domain Frequently Asked Questions". .africa - Registry Africa. 16 May 2020. Archived from the original on 16 May 2020. Retrieved 16 May 2020.
+ "dotCapeTown - .CapeTown - The new domain extension for the City of Cape Town". Nic.capetown. Archived from the original on 30 June 2014. Retrieved 21 October 2014.
+ "dotDurban - .Durban - The new domain extension for the City of Durban". Nic.durban. Archived from the original on 8 August 2014. Retrieved 21 October 2014.
+ "dotJoburg - .Joburg - The new domain extension for the City of Johannesburg". Nic.joburg. Archived from the original on 18 December 2014. Retrieved 21 October 2014.
+ IANA - .krd Domain Delegation Data, IANA. Accessed on line 24 November 2014.
+ .krd Network Information Centre, accessed on line 24 November 2014.
+ "About .kyoto". The Kyoto College of Graduate Studies for Informatics. Archived from the original on 10 October 2017. Retrieved 9 October 2017.
+ "「.nagoya」名古屋のための新ドメイン". GMOドメインレジストリ株式会社. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ IANA - .okinawa Domain Delegation Data, IANA. Accessed on line 25 August 2022.
+ IANA - .ryukyu Domain Delegation Data, IANA. Accessed on line 1 December 2014.
+ ".taipei Net Top City". Archived from the original on 5 November 2014. Retrieved 4 November 2014.
+ "「.tokyo」東京のための新ドメイン". GMOドメインレジストリ株式会社. Archived from the original on 4 September 2014. Retrieved 21 October 2014.
+ "「.yokohama」横浜のための新ドメイン". GMOドメインレジストリ株式会社. Retrieved 21 October 2014.
+ "Book your extension .alsace".
+ ".BZH - L'extension internet de la Bretagne". .BZH - L'extension internet de la Bretagne.
+ (in Catalan) Fundació punt CAT | A Internet, el català és .cat. Registra ara un domini i identifica’t amb el teu .cat. Fundacio.cat. Retrieved 25 May 2014.
+ ".eus Domeinua - .eus - Euskara eta Euskal Kultura Interneten". Nic.eus. Retrieved 21 October 2014.
+ https://cdn.paris.fr/paris/2021/09/01/d99971a614c63c3c97e99e4976154ccd.pdf[bare URL PDF]
+ "Dominio .gal". Dominio.gal. Retrieved 21 October 2014.
+ IANA - .madrid Domain Delegation Data, IANA. Accessed on line 24 November 2014.
+ "Startseite - .bayern - Das Web wird weiß-blau". nic.bayern.
+ (in German) berlin Top-Level-Domain Archived 18 December 2014 at the Wayback Machine. Nic.berlin. Retrieved 25 May 2014.
+ "The New TLDS .koeln & .cologne". Dot.cologne. Archived from the original (PDF) on 4 September 2014. Retrieved 21 October 2014.
+ "The New TLDS .koeln & .cologne". Dot.koeln. Archived from the original (PDF) on 21 October 2014. Retrieved 21 October 2014.
+ IANA - .nrw Domain Delegation Data, IANA. Accessed on line 26 November 2014.
+ ".ruhr". Dot.ruhr. 5 September 2014. Retrieved 21 October 2014.
+ "dotSaarland GmbH". Retrieved 28 October 2014.
+ amsterdam Top-Level-Domain.
+ ".brussels is now in the root! - DNS Belgium". Nic.brussels. Archived from the original on 18 December 2014. Retrieved 21 October 2014.
+ ".cymru .wales Our Home Online". Retrieved 4 November 2014.
+ (in Dutch) frl Top-Level-Domain. Nic.frl. Retrieved 5 September 2014.
+ "Official website of .GENT". Retrieved 4 November 2014.
+ "The New London Code". Nic.london. Archived from the original on 18 December 2014. Retrieved 21 October 2014.
+ "About TLDs .MOSCOW and .МОСКВА - dotMoscow: .MOSCOW and .МОСКВА TLDs for Russian Capital". Nic.moscow. Retrieved 21 October 2014.
+ "Register .scot domains - Calico .scot domains - dotscot is the new Scottish top level domain". Calico.scot. Retrieved 21 October 2014.
+ "Zonemaster växer.stockholm". Zonemaster. The Swedish Internet Foundation.
+ "Zuteilung und Verwaltung der Domain-Namen der zweiten Ebene, die der Internet-Domain ".swiss" untergeordnet sind" (in German). BAKOM. Retrieved 6 March 2019.
+ "Mission". Tatar Internet. Retrieved 4 November 2014.
+ "Tirol Domain" (in German). Retrieved 25 November 2014.
+ ".vlaanderen is now in the root! - DNS Belgium". Nic.vlaanderen. Archived from the original on 21 October 2014. Retrieved 21 October 2014.
+ ".wien: punktwien". Nic.wien. Retrieved 21 October 2014.
+ ".zuerich Registry Operator Website". Retrieved 17 June 2015.
+ IANA - .miami Domain Delegation Data, IANA. Accessed on line 25 November 2014.
+ ".NYC Domain Name Extension - Official Website". .NYC - The Official Website for the Ultimate New York City Address. Retrieved 21 October 2014.
+ ".QUEBEC". Retrieved 21 October 2014.
+ "Dot Vegas, Inc". Archived from the original on 3 September 2014. Retrieved 21 October 2014.
+ "About". Hello.kiwi. Retrieved 21 October 2014.
+ Twenty4. "nic.melbourne - Home page". nic.melbourne. Retrieved 21 October 2014.
+ IANA - .sydney Domain Delegation Data, IANA. Accessed on line 2 December 2014.
+ ".LAT Domain - About us". Archived from the original on 3 September 2015. Retrieved 13 August 2015.
+ ".LAT Domain - FAQs". Archived from the original on 3 September 2015. Retrieved 13 August 2015.
+ "IANA - .rio Domain Delegation Data". Archived from the original on 9 December 2014. Retrieved 1 December 2014.
+ IANA - .佛山 Domain Delegation Data, IANA. Accessed on line 2 December 2014.
+ "О фонде | Foundation for Assistance for Internet Technologies and Infrastructure Development". {{cite web}}: Check |url= value (help)
+ ".abc Domain Registration - .abc Domains - American Broadcasting Companies, Inc. Domain Name .abc - Register American Broadcasting Companies, Inc. Domain Name .abc". 101domain.com. Retrieved 22 July 2018.
+ IANA — .allfinanz Domain Delegation Data. Accessed on line 19 November 2014.
+ IANA — .android Domain Delegation Data. Accessed on line 19 November 2014.
+ IANA — .aquarelle Domain Delegation Data. Accessed on line 2 December 2014.
+ "dotAXA: AXA Group New Online Space" (PDF). Domains.axa. Retrieved 21 October 2014.
+ "Barclays begins using .Barclays and .Barclaycard top level domains". 15 May 2015. Retrieved 8 August 2015.
+ "FIBA launches .basketball as new digital identity of the global basketball community" (Press release). FIBA. 15 June 2017. Archived from the original on 2 July 2018. Retrieved 2 July 2018.
+ IANA — .bloomberg Domain Delegation Data. Accessed on line 19 November 2014.
+ "Home dotBMW registry operator". nic.bmw. Retrieved 21 October 2014.
+ IANA — .bnl Domain Delegation Data. Accessed on line 26 June 2015.
+ "nic.bnpparibas". Retrieved 4 November 2014.
+ "IANA — .bradesco Domain Delegation Data". iana.org. Retrieved 3 November 2016.
+ IANA — .cal Domain Delegation Data. Accessed on line 19 November 2014.
+ IANA — .caravan Domain Delegation Data. Accessed on line 19 November 2014.
+ IANA — .cern Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .chrome Domain Delegation Data. Accessed on line 20 November 2014.
+ "中国中信集团有限公司". Nic.citic. Retrieved 21 October 2014.
+ IANA — .crs Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .cuisinella Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .dnp Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .dvag Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .edka Domain Delegation Data. Accessed on line 10 October 2016.
+ IANA — .emerck Domain Delegation Data. Accessed on line 20 November 2014.
+ IANA — .everbank Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .firmdale Domain Delegation Data. Accessed on line 24 November 2014.
+ IANA — .flsmidth Domain Delegation Data. Accessed on line 21 November 2014.
+ "Using the .frogans gTLD". Nic.frogans. Retrieved 21 October 2014.
+ IANA — .gbiz Domain Delegation Data. Accessed on line 21 November 2014.
+ IANA — .gle Domain Delegation Data. Accessed on line 21 November 2014.
+ ".globo". Nic.globo. Retrieved 21 October 2014.
+ IANA — .gmail Domain Delegation Data. Accessed on line 21 November 2014.
+ IANA — .gmo Domain Delegation Data. Accessed on line 21 November 2014.
+ IANA — .gmx Domain Delegation Data. Accessed on line 21 November 2014.
+ IANA — Delegation Record for .GOOG. Accessed on line 3 October 2018.
+ IANA — .google Domain Delegation Data. Accessed on line 21 November 2014.
+ ".hsbc". Retrieved 15 August 2015.
+ IANA — .ibm Domain Delegation Data. Accessed on line 24 November 2014.
+ IANA — .kred Domain Delegation Data. Accessed on line 24 November 2014.
+ IANA — .lacaixa Domain Delegation Data. Accessed on line 25 November 2014.
+ IANA — .latrobe Domain Delegation Data. Accessed on line 2 December 2014.
+ This domain has been delegated to IRI Domain Management, LLC, a subsidiary of Intellectual Reserve, Inc., which is owned and operated by the LDS Church.
+ IANA — .lds Domain Delegation Data. Accessed on line 21 November 2014.
+ "IANA — .leclerc Domain Delegation Data". iana.org. Retrieved 18 June 2019.
+ "MANGO". Nic.mango. Archived from the original on 14 February 2015. Retrieved 21 October 2014.
+ "Home dotMINI registry operator". Nic.mini. Retrieved 21 October 2014.
+ ".monash - Network Information Centre". Nic.monash. Retrieved 21 October 2014.
+ "New gTLD Program : InitialEvaluation Report : Report Date: 10 May 2013" (PDF). Newgtlds.icann.org. Retrieved 21 October 2014.
+ IANA — .mormon Domain Delegation Data. Accessed on line 21 November 2014.
+ "Neustar Launches New TLD .Neustar". Nic.neustar. Retrieved 21 October 2014.
+ IANA — .nhk Domain Delegation Data. Accessed on line 26 November 2014.
+ ".nico - The Brand TLD for Dwango Co., Ltd". Dwango Co., Ltd. Retrieved 2 November 2015.
+ IANA — .nra Domain Delegation Data. Accessed on line 26 November 2014.
+ IANA — .otsuka Domain Delegation Data. Accessed on line 26 November 2014.
+ "The New OVH Code" (PDF). Nic.ovh. Retrieved 21 October 2014.
+ "NIC PIAGET". Archived from the original on 18 January 2018. Retrieved 17 March 2015.
+ IANA — .pohl Domain Delegation Data. Accessed on line 1 December 2014.
+ IANA — .praxi Domain Delegation Data. Accessed on line 1 December 2014.
+ IANA — .prod Domain Delegation Data. Accessed on line 1 December 2014.
+ NIC PwC. Accessed on line 1 December 2014.
+ "Site:.SANDVIKCOROMANT - Google Search". Archived from the original on 29 October 2018. Retrieved 26 January 2016.
+ ".sap - ICANNWiki". icannwiki.org. Retrieved 23 May 2017.
+ ".sca". Retrieved 4 November 2014.
+ IANA — .schmidt Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .seek Domain Delegation Data. Accessed on line 20 July 2016.
+ IANA — .sohu Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .spiegel Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .suzuki Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .tui Domain Delegation Data. Accessed on line 19 November 2014.
+ IANA — .uol Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .williamhill Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .wme Domain Delegation Data. Accessed on line 2 December 2014.
+ IANA — .wtc Domain Delegation Data. Accessed on line 2 December 2014.
+ "This is .yandex". Nic.yandex. Archived from the original (PDF) on 19 July 2014. Retrieved 21 October 2014.
+ IANA — .youtube Domain Delegation Data. Accessed on line 2 December 2014.
+ "Nic.中信". nic.中信. Archived from the original on 6 March 2015. Retrieved 21 October 2014.
+ IANA — .vermögensberater Domain Delegation Data. Accessed on line 1 December 2014.
+ IANA — .vermögensberatung Domain Delegation Data. Accessed on line 1 December 2014.
+ IANA — .グーグル Domain Delegation Data. Accessed on line 24 November 2014.
+ IANA — .谷歌 Domain Delegation Data. Accessed on line 24 November 2014.
+ "DNSViz — 诺基亚 Retired 2022-12-06". dnsviz.net. Retrieved 7 December 2022.
+ "WHOIS 서비스란?". Whois.nic. Retrieved 21 October 2014.
+ "Special-Use Domain Names". Iana.org. Retrieved 8 January 2018.
+ Multicast DNS. Internet Engineering Task Force (IETF). doi:10.17487/RFC6762. RFC 6762.
+ Werbach, Kevin (11 December 2018). The Blockchain and the New Architecture of Trust. MIT Press. ISBN 978-0-262-34978-9.
+ "A crypto project to make internet names censorship-proof is now live". MIT Technology Review. Retrieved 2 August 2021.
+ "The Gold Rush Is on for Ethereum Domain Names". www.vice.com. 11 May 2017. Retrieved 2 August 2021.
+ Francisco, Kieren McCarthy in San. "Sucks to be you, ICANN. We can go our own way: Opera to support sites using renegade top-level domain .crypto". www.theregister.com. Retrieved 2 August 2021.
+ Cimpanu, Catalin. "OpenNIC drops support for .bit domain names after rampant malware abuse". ZDNet. Retrieved 2 August 2021.
+External links
+IANA's list of TLDs in machine-readable format
+The Internet Domain Survey
+The Public Suffix List / PSL – Maintained by Mozilla
+Registry Agreements at ICANN
+Registry Agreement Termination Info Page at ICANN
+vte
+Notable generic top-level domains
+Categories: Country codesInternational telecommunicationsTop-level domainsInternet-related lists
+This page was last edited on 2 June 2023, at 01:47 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWikiToggle limited content width
+.lt
